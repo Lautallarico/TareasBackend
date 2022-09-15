@@ -31,6 +31,8 @@ const nuevoUsuario = new Usuario('Juan', 'Perez', [{ nombre: 'Libro 1', autor: '
 
 console.log(nuevoUsuario);
 
+console.log(nuevoUsuario.getFullName());
+
 console.log(nuevoUsuario.countMascotas());
 console.log(nuevoUsuario.addMascota('Gato'));
 console.log(nuevoUsuario.countMascotas());
