@@ -14,3 +14,4 @@ const routerProductos = require('./routes/productos.js')
 
 app.use('/', routerProductos)
 
+app.use('/formulario', express.static('public'))
