@@ -5,12 +5,12 @@ import fs from 'fs'
 
 class Contenedor {
 
-    // constructor(file) {
-    //     this.fileDir = `./${file}.json`
-    // }
-    constructor() {
-        this.fileDir = []
+    constructor(file) {
+        this.fileDir = `./${file}.json`
     }
+    // constructor() {
+    //     this.fileDir = []
+    // }
 
     async save(element) {
         try {
@@ -20,6 +20,7 @@ class Contenedor {
             allElements.push(element)
 
             await fs.promises.writeFile(this.fileDir, JSON.stringify(allElements, null, 3))
+            return element
         } catch (error) {
             console.log(`El error esta en el SAVE ${error}`);
         }
@@ -41,11 +42,11 @@ class Contenedor {
 
     async getAll() {
         try {
-            // const file = await fs.promises.readFile(this.fileDir, 'utf-8')
-            // const allElements = JSON.parse(file)
+            const file = await fs.promises.readFile(this.fileDir, 'utf-8')
+            const allElements = JSON.parse(file)
 
-            // return allElements
-            return this.fileDir
+            return allElements
+            // return this.fileDir
         } catch (error) {
 
             if (error.code === 'ENOENT') {
