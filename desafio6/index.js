@@ -59,16 +59,16 @@ httpServer.on('error', error => console.log(`Error del servidor: ${error}`))
 
 
 // SOCKETS PRODUCTOS
-io.on('connection', socket => {
-    sendAllProducts(socket)
-    sendAllMessages(socket)
+io.on('connection', async socket => {
+    await sendAllProducts(socket)
+    await sendAllMessages(socket)
 
-    socket.on('new product', product => {
-        saveProduct(product)
+    socket.on('new product', async product => {
+        await saveProduct(product)
     })
 
-    socket.on('new message', message => {
-        saveMessage(message)
+    socket.on('new message', async message => {
+        await saveMessage(message)
     })
 })
 
@@ -90,7 +90,7 @@ const saveMessage = async (message) => {
 
     const newMessage = { ...message, messageSendAt: `Enviado ${dateFormated} hs` }
     await MessagesApi.save(newMessage)
-    const allMessages = await ProductApi.getAll()
+    const allMessages = await MessagesApi.getAll()
 
     io.sockets.emit('all messages', allMessages)
 }
