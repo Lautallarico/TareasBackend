@@ -65,11 +65,10 @@ router.delete('/:cartId/productos/:id_prod', async (req, res) => {
             cart.productos.splice(foundElementIndex, 1)
 
             res.send({ success: true, message: `Se elimino del carrito ${cartId} el producto con el ID ${id_prod}` })
-
         }
-        console.log(cart);
-        // hasta aca logro hacer que el carrito se quede sin el producto pero no lo puedo actualizar en la bd
-        return cart
+
+        const updatedCart = await CartApi.updateById(Number(cartId), cart)
+        res.send({ success: true, cart: updatedCart })
 
     } catch (error) {
         console.log(error, `Error desde CartRouter - Delete CartID/IDprod`);

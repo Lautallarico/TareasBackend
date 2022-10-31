@@ -34,5 +34,15 @@
       "description": "Este es el quinto celu",
       "stock": "5000",
       "id": 5
+   },
+   {
+      "title": "celu6",
+      "description": "Este es el sexto celu",
+      "code": "cod667",
+      "price": 667,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFUdWOO1VmAWrJwwxneAhctpE21x6tQ-4dw&usqp=CAU",
+      "stock": 6000,
+      "timestamp": "31/10/2022 07:08:21",
+      "id": 6
    }
 ]

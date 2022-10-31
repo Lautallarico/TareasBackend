@@ -27,7 +27,7 @@ router.get('/:id', async (req, res) => {
 router.post('/', verifyRole, async (req, res) => {
     try {
         const { title, description, code, price, thumbnail, stock } = req.body
-
+    
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
 
         const savedProduct = await ProductApi.save(product)
