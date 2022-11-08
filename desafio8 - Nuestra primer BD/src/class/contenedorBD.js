@@ -24,21 +24,6 @@ class ContenedorBD {
         }
     }
 
-    async saveMessage(text) {
-        try {
-            const newMessage = {
-                message: text.message,
-                messageSendAt: text.message
-            }
-
-            await insertMessage(newMessage)
-            return newMessage
-
-        } catch (error) {
-            console.log(`El error está en el saveProduct - error: ${error}`);
-        }
-    }
-
     async insertMessage(message) {
         try {
             await this.knex('messages').insert(message)
@@ -50,10 +35,10 @@ class ContenedorBD {
 
     async getAllMessages() {
         try {
-            const listAllMessages = await this.knex('messages').select('*')
+            const listAllMessages = await this.knex.select('*').from('messages')
             return listAllMessages
         } catch (error) {
-            console.log(`El error está en el allMessages - error: ${error}`);
+            console.log(`El error está en el getAllMessages - error: ${error}`);
         }
     }
 
@@ -79,25 +64,6 @@ class ContenedorBD {
         }
     }
 
-    async saveProduct(product) {
-        try {
-            const newProduct = {
-                title: product.title,
-                price: product.price,
-                thumbnail: product.thumbnail,
-                code: product.code,
-                description: product.description,
-                stock: product.stock,
-            }
-
-            await insertProduct(newProduct)
-            return newProduct
-
-        } catch (error) {
-            console.log(`El error está en el saveProduct - error: ${error}`);
-        }
-    }
-
     async insertProduct(product) {
         try {
             await this.knex('products').insert(product)
@@ -109,7 +75,7 @@ class ContenedorBD {
 
     async getAllProducts() {
         try {
-            const listAllProducts = await this.knex('products').select('*')
+            const listAllProducts = await this.knex.from('products').select('*')
             return listAllProducts
         } catch (error) {
             console.log(`El error está en el getAllProducts - error: ${error}`);

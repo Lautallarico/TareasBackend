@@ -60,16 +60,18 @@ const sendAllProducts = async (socket) => {
     socket.emit('all products', allProducts)
 }
 const saveProduct = async newProduct => {
-    await ProductBD.saveProduct(newProduct)
+    ProductBD.createTableProducts()
+    await ProductBD.insertProduct(newProduct)
     const allProducts = await ProductBD.getAllProducts()
     io.sockets.emit('all products', allProducts)
 }
 
 // SOCKETS CHAT
 const saveMessage = async (message) => {
-
+    
     const newMessage = { ...message, messageSendAt: `Enviado ${DATE_UTILS.getTimestamp()} hs` }
-    await MessagesBD.saveMessage(newMessage)
+    // MessagesBD.createTableMessages()
+    await MessagesBD.insertMessage(newMessage)
     const allMessages = await MessagesBD.getAllMessages()
 
     io.sockets.emit('all messages', allMessages)
