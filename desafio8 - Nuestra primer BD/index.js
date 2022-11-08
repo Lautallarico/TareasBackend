@@ -9,9 +9,11 @@ import { DATE_UTILS } from './src/utils/index.js'
 import { Server as HttpServer } from 'http'
 import { Server as IOServer } from 'socket.io'
 
-import { ProductApi, MessagesApi } from './src/api/index.js'
+// import { ProductApi, MessagesApi } from './src/api/index.js'
 
 import { config } from './src/config/index.js'
+
+import { ProductBD, MessagesBD } from './src/api/index.js'
 
 const app = express()
 
@@ -35,7 +37,7 @@ app.use('/api/productos', ProductRouter)
 app.use('/api/carrito', CartRouter)
 
 
-httpServer.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 7 Pre-entrega 1`))
+httpServer.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 8 Nuestra primer BD`))
 httpServer.on('error', error => console.log(`Error del servidor: ${error}`))
 
 
@@ -54,12 +56,12 @@ io.on('connection', async socket => {
 })
 
 const sendAllProducts = async (socket) => {
-    const allProducts = await ProductApi.getAll()
+    const allProducts = await ProductBD.getAllProducts()
     socket.emit('all products', allProducts)
 }
 const saveProduct = async newProduct => {
-    await ProductApi.save(newProduct)
-    const allProducts = await ProductApi.getAll()
+    await ProductBD.saveProduct(newProduct)
+    const allProducts = await ProductBD.getAllProducts()
     io.sockets.emit('all products', allProducts)
 }
 
@@ -67,12 +69,12 @@ const saveProduct = async newProduct => {
 const saveMessage = async (message) => {
 
     const newMessage = { ...message, messageSendAt: `Enviado ${DATE_UTILS.getTimestamp()} hs` }
-    await MessagesApi.save(newMessage)
-    const allMessages = await MessagesApi.getAll()
+    await MessagesBD.saveMessage(newMessage)
+    const allMessages = await MessagesBD.getAllMessages()
 
     io.sockets.emit('all messages', allMessages)
 }
 const sendAllMessages = async (socket) => {
-    const allMessages = await MessagesApi.getAll()
+    const allMessages = await MessagesBD.getAllMessages()
     socket.emit('all messages', allMessages)
 }
