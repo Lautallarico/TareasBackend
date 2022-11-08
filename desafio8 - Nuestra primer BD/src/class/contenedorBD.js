@@ -1,11 +1,10 @@
 import knex from 'knex'
-const knexService = knex()
+const knexService = knex
 
 class ContenedorBD {
 
     constructor(config) {
         this.knex = knexService(config)
-
     }
 
     async createTableMessages() {
@@ -113,7 +112,7 @@ class ContenedorBD {
             const listAllProducts = await this.knex('products').select('*')
             return listAllProducts
         } catch (error) {
-            console.log(`El error está en el allProucts - error: ${error}`);
+            console.log(`El error está en el getAllProducts - error: ${error}`);
         }
     }
 }
