@@ -68,9 +68,8 @@ const saveProduct = async newProduct => {
 
 // SOCKETS CHAT
 const saveMessage = async (message) => {
-    
+    MessagesBD.createTableMessages()
     const newMessage = { ...message, messageSendAt: `Enviado ${DATE_UTILS.getTimestamp()} hs` }
-    // MessagesBD.createTableMessages()
     await MessagesBD.insertMessage(newMessage)
     const allMessages = await MessagesBD.getAllMessages()
 

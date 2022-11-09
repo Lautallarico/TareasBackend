@@ -8,8 +8,9 @@ class ContenedorBD {
     }
 
     async createTableMessages() {
-
         try {
+            const tableExist = await this.knex.schema.hasTable('messages')
+            if (tableExist) return
 
             await this.knex.schema.createTable('messages', table => {
                 table.increments('id');
@@ -19,7 +20,6 @@ class ContenedorBD {
             console.log(`The table messages has been created`);
 
         } catch (error) {
-
             console.log(`El error está en el createTableMessages - error: ${error}`);
         }
     }
@@ -43,8 +43,9 @@ class ContenedorBD {
     }
 
     async createTableProducts() {
-
         try {
+            const tableExist = await this.knex.schema.hasTable('products')
+            if (tableExist) return
 
             await this.knex.schema.createTable('products', table => {
                 table.increments('id');
@@ -59,7 +60,6 @@ class ContenedorBD {
             console.log(`The table products has been created`);
 
         } catch (error) {
-
             console.log(`El error está en el createTableProducts - error: ${error}`);
         }
     }
