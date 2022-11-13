@@ -1,0 +1,408 @@
+*CREAMOS LA BD "ECOMMERCE"
+test> use ecommerce
+
+*CREAMOS LAS COLECCIONES "MESSAGES" Y "PRODUCTS"
+ecommerce> db.createCollection('messages')
+{ ok: 1 }
+ecommerce> db.createCollection('products')
+{ ok: 1 }
+
+*VERIFICO LA CREACION DE LAS COLECCIONES
+ecommerce> show collections
+messages
+products
+
+1) AGREGO 10 ELEMENTOS A CADA UNA DE LAS COLLECCIONES
+
+ecommerce> db.products.insert([
+...    {
+...       "title": "celu1",
+...       "price": 120,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod1",
+...       "description": "Este es el primer celu",
+...       "stock": 9000,
+...       "id": 1
+...    },
+...    {
+...       "title": "calu2",
+...       "price": 580,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-epW2bO8o9ZmvCsLUFRDZ4lJK5cdIXPxAQ&usqp=CAU",
+...       "code": "cel28nf2",
+...       "description": "Este es el segundo celu",
+...       "stock": 2000,
+...       "id": 2
+...    },
+...    {
+...       "title": "celu3",
+...       "price": 900,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1I34zuDAR7CQWfUbcHc50DZdFZaSgXueSew&usqp=CAU",
+...       "code": "cod343n",
+...       "description": "Este es el tercer celu",
+...       "stock": 3000,
+...       "id": 3
+...    },
+...    {
+...       "title": "celu4",
+...       "price": 1280,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFUdWOO1VmAWrJwwxneAhctpE21x6tQ-4dw&usqp=CAU",
+...       "code": "cod444",
+...       "description": "Este es el cuarto celu",
+...       "stock": 4000,
+...       "id": 4
+...    },
+...    {
+...       "title": "celu5",
+...       "price": 1700,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUz5KoIPMbZp4awPNpbY0A_SLRYZM51l46dw&usqp=CAU",
+...       "code": "cod5gei2",
+...       "description": "Este es el quinto celu",
+...       "stock": 5000,
+...       "id": 5
+...    },
+...    {
+...       "title": "celu6",
+...       "description": "Este es el sexto celu",
+...       "code": "cod667",
+...       "price": 2300,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFUdWOO1VmAWrJwwxneAhctpE21x6tQ-4dw&usqp=CAU",
+...       "stock": 6000,
+...       "id": 6
+...    },
+...    {
+...       "title": "celu7",
+...       "price": 2860,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod777",
+...       "description": "Este es el septimo celu",
+...       "stock": 7000,
+...       "id": 7
+...    },
+...    {
+...       "title": "celu8",
+...       "price": 3350,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod88",
+...       "description": "Este es el octavo celu",
+...       "stock": 8000,
+...       "id": 8
+...    },
+...    {
+...       "title": "celu9",
+...       "price": 4320,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod99",
+...       "description": "Este es el noveno celu",
+...       "stock": 9000,
+...       "id": 9
+...    },
+...    {
+...       "title": "celu10",
+...       "price": 4990,
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod10",
+...       "description": "Este es el decimo celu",
+...       "stock": 1010,
+...       "id": 10
+...    }
+... ])
+
+INSERTADOS CORRECTAMENTE
+
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId("63714f244ec72a1c8f353ba0"),
+    '1': ObjectId("63714f244ec72a1c8f353ba1"),
+    '2': ObjectId("63714f244ec72a1c8f353ba2"),
+    '3': ObjectId("63714f244ec72a1c8f353ba3"),
+    '4': ObjectId("63714f244ec72a1c8f353ba4"),
+    '5': ObjectId("63714f244ec72a1c8f353ba5"),
+    '6': ObjectId("63714f244ec72a1c8f353ba6"),
+    '7': ObjectId("63714f244ec72a1c8f353ba7"),
+    '8': ObjectId("63714f244ec72a1c8f353ba8"),
+    '9': ObjectId("63714f244ec72a1c8f353ba9")
+  }
+}
+
+ecommerce> db.messages.insert([
+...     {
+...         "message": "hola!",
+...         "messageSendAt": "Enviado 24/10/2022 09:44:30 hs",
+...         "id": 1
+...     },
+...     {
+...         "message": "como va",
+...         "messageSendAt": "Enviado 27/10/2022 06:44:43 hs",
+...         "id": 2
+...     },
+...     {
+...         "message": "todo bien vos?",
+...         "messageSendAt": "Enviado 27/10/2022 06:45:07 hs",
+...         "id": 3
+...     },
+...     {
+...         "message": "todo bien",
+...         "messageSendAt": "Enviado 24/10/2022 09:44:30 hs",
+...         "id": 4
+...     },
+...     {
+...         "message": "la familia que tal?",
+...         "messageSendAt": "Enviado 27/10/2022 06:44:43 hs",
+...         "id": 5
+...     },
+...     {
+...         "message": "tbm muy bien",
+...         "messageSendAt": "Enviado 27/10/2022 06:45:07 hs",
+...         "id": 6
+...     },
+...     {
+...         "message": "con el curso de coder?",
+...         "messageSendAt": "Enviado 24/10/2022 09:44:30 hs",
+...         "id": 7
+...     },
+...     {
+...         "message": "muy bien",
+...         "messageSendAt": "Enviado 27/10/2022 06:44:43 hs",
+...         "id": 8
+...     },
+...     {
+...         "message": "aprendiendo mucho no?",
+...         "messageSendAt": "Enviado 27/10/2022 06:45:07 hs",
+...         "id": 9
+...     },
+...     {
+...         "message": "pufff un monton!",
+...         "messageSendAt": "Enviado 27/10/2022 06:45:07 hs",
+...         "id": 10
+...     }
+... ])
+
+INSERTADOS CORRECTAMENTE
+
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId("63714f564ec72a1c8f353baa"),
+    '1': ObjectId("63714f564ec72a1c8f353bab"),
+    '2': ObjectId("63714f564ec72a1c8f353bac"),
+    '3': ObjectId("63714f564ec72a1c8f353bad"),
+    '4': ObjectId("63714f564ec72a1c8f353bae"),
+    '5': ObjectId("63714f564ec72a1c8f353baf"),
+    '6': ObjectId("63714f564ec72a1c8f353bb0"),
+    '7': ObjectId("63714f564ec72a1c8f353bb1"),
+    '8': ObjectId("63714f564ec72a1c8f353bb2"),
+    '9': ObjectId("63714f564ec72a1c8f353bb3")
+  }
+}
+
+2) Ya realizado
+
+3) Listar todos los documentos en cada colección.
+
+ecommerce> db.products.find()
+ecommerce> db.messages.find()
+
+4) Mostrar la cantidad de documentos almacenados en cada una de ellas.
+
+ecommerce> db.products.count()
+DeprecationWarning: Collection.count() is deprecated. Use countDocuments or estimatedDocumentCount.
+10
+ecommerce> db.products.countDocuments()
+10
+
+ecommerce> db.messages.count()
+DeprecationWarning: Collection.count() is deprecated. Use countDocuments or estimatedDocumentCount.
+10
+ecommerce> db.messages.countDocuments()
+10
+
+5) a) Agregar un producto más en la colección de productos 
+
+ecommerce> db.products.insertOne({
+...       "title": "celu11",
+...       "price": "4991",
+...       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU",
+...       "code": "cod11",
+...       "description": "Este es el onceavo celu",
+...       "stock": "1111",
+...       "id": 11
+...    })
+{
+  acknowledged: true,
+  insertedId: ObjectId("637159434ec72a1c8f353bb8")
+}
+
+5) b) i) Listar los productos con precio menor a 1000 pesos.
+ecommerce> db.products.find({ "price": { $lt : 1000}})
+[
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba0"),
+    title: 'celu1',
+    price: 120,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod1',
+    description: 'Este es el primer celu',
+    stock: '9000',
+    id: 1
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba1"),
+    title: 'celu2',
+    price: 580,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-epW2bO8o9ZmvCsLUFRDZ4lJK5cdIXPxAQ&usqp=CAU',
+    code: 'cel28nf2',
+    description: 'Este es el segundo celu',
+    stock: '2000',
+    id: 2
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba2"),
+    title: 'celu3',
+    price: 900,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1I34zuDAR7CQWfUbcHc50DZdFZaSgXueSew&usqp=CAU',
+    code: 'cod343n',
+    description: 'Este es el tercer celu',
+    stock: '3000',
+    id: 3
+  }
+]
+
+5) b) ii) Listar los productos con precio entre los 1000 a 3000 pesos.
+ecommerce> db.products.find({$and:[{"price":{$gte:1000}},{"price":{$lte:3000}}]})
+[
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba3"),
+    title: 'celu4',
+    price: 1280,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFUdWOO1VmAWrJwwxneAhctpE21x6tQ-4dw&usqp=CAU',
+    code: 'cod444',
+    description: 'Este es el cuarto celu',
+    stock: 4000,
+    id: 4
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba4"),
+    title: 'celu5',
+    price: 1700,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUz5KoIPMbZp4awPNpbY0A_SLRYZM51l46dw&usqp=CAU',
+    code: 'cod5gei2',
+    description: 'Este es el quinto celu',
+    stock: 5000,
+    id: 5
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba5"),
+    title: 'celu6',
+    description: 'Este es el sexto celu',
+    code: 'cod667',
+    price: 2300,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFUdWOO1VmAWrJwwxneAhctpE21x6tQ-4dw&usqp=CAU',
+    stock: 6000,
+    id: 6
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba6"),
+    title: 'celu7',
+    price: 2860,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod777',
+    description: 'Este es el septimo celu',
+    stock: 7000,
+    id: 7
+  }
+]
+
+5) b) iii) Listar los productos con precio mayor a 3000 pesos.
+
+ecommerce> db.products.find({ "price": { $gte : 3000}})
+[
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba7"),
+    title: 'celu8',
+    price: 3350,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod88',
+    description: 'Este es el octavo celu',
+    stock: 8000,
+    id: 8
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba8"),
+    title: 'celu9',
+    price: 4320,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod99',
+    description: 'Este es el noveno celu',
+    stock: 9000,
+    id: 9
+  },
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba9"),
+    title: 'celu10',
+    price: 4990,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod10',
+    description: 'Este es el decimo celu',
+    stock: 1010,
+    id: 10
+  },
+  {
+    _id: ObjectId("637159434ec72a1c8f353bb8"),
+    title: 'celu11',
+    price: 4991,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7X3gJ98Byhqxuu4j8UJa1G_cj74nSmiuRQ&usqp=CAU',
+    code: 'cod11',
+    description: 'Este es el onceavo celu',
+    stock: 1111,
+    id: 11
+  }
+]
+
+5) b) iv) Realizar una consulta que traiga sólo el nombre del tercer producto más barato.
+
+ecommerce> db.products.find().skip(2).limit(1).sort({"price":1})
+[
+  {
+    _id: ObjectId("63714f244ec72a1c8f353ba2"),
+    title: 'celu3',
+    price: 900,
+    thumbnail: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1I34zuDAR7CQWfUbcHc50DZdFZaSgXueSew&usqp=CAU',
+    code: 'cod343n',
+    description: 'Este es el tercer celu',
+    stock: 3000,
+    id: 3
+  }
+]
+
+5) c) Hacer una actualización sobre todos los productos, agregando el campo stock a todos ellos con un valor de 100.
+
+ecommerce> db.products.update({},{ $set:{'stock': 100}}, {multi:true})
+DeprecationWarning: Collection.update() is deprecated. Use updateOne, updateMany, or bulkWrite.
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 11,
+  modifiedCount: 11,
+  upsertedCount: 0
+}
+
+5) d) Cambiar el stock a cero de los productos con precios mayores a 4000 pesos.
+
+ecommerce> db.products.update({'price':{$gte:4000}},{ $set:{'stock': 0}}, {multi:true})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 3,
+  modifiedCount: 3,
+  upsertedCount: 0
+}
+
+5) e) Borrar los productos con precio menor a 1000 pesos 
+ecommerce> db.products.deleteMany({'price':{$lte:1000}})
+{ acknowledged: true, deletedCount: 3 }
+
+6) Crear un usuario 'pepe' clave: 'asd456' que sólo pueda leer la base de datos ecommerce. Verificar que pepe no pueda cambiar la información.
+
+admin> db.createUser({'user':'pepe','pwd':'asd456','roles':[{role:'read', db:'ecommerce'}]})
+{ ok: 1 }
