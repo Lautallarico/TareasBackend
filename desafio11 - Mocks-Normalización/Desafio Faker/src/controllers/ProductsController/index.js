@@ -1,6 +1,7 @@
 
 import { ProductDao } from '../../dao/index.js'
-import { DATE_UTILS, ERRORS_UTILS, JOI_VALIDATOR } from '../../utils/index.js'
+import { DATE_UTILS, ERRORS_UTILS, JOI_VALIDATOR, createFakeProducts } from '../../utils/index.js'
+
 
 
 const getAll = async (req, res) => {
@@ -59,4 +60,15 @@ const deleteProduct = async (req, res) => {
 
 }
 
-export const ProductController = { getAll, getById, createProduct, deleteProduct }
+const getProductsTest = async (req, res) => {
+    try {
+        const products = createFakeProducts(5)
+        res.send({ success: true, data: products })
+
+    } catch (error) {
+        console.log(error, `error from getProductsTest`);
+        res.send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
+    }
+}
+
+export const ProductController = { getAll, getById, createProduct, deleteProduct, getProductsTest }
