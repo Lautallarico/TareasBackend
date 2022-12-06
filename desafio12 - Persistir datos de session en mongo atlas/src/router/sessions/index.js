@@ -6,13 +6,9 @@ const router = Router()
 
 router.get('/login', SessionController.logInUser)
 
-router.get('/logout', SessionController.logOutUser)
+router.post('/login', SessionController.postLogIn)
 
-router.post('/login', (req, res) => {
-    const { userName } = req.body
-    req.session.user = userName
-    res.redirect('/products')
-})
+router.get('/logout', SessionController.logOutUser)
 
 
 export { router as SessionRouter }

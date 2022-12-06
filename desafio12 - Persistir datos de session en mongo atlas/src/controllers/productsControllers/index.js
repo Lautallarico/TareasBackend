@@ -8,6 +8,7 @@ const getProductsTest = async (req, res) => {
     } catch (error) {
         console.log(error, `error from getProductsTest`);
         res.send({ success: false, data: undefined, message: 'products not found' })
+        // res.redirect('login.hbs')
     }
 }
 

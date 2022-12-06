@@ -10,17 +10,17 @@ const app = express()
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
-app.use('/', express.static(path.join(process.cwd() + '/public')))
+app.use('/', express.static(path.join(process.cwd() + './public')))
 app.set('view engine', 'hbs')
 app.set('views', './public/views');
 app.engine('hbs', handlebars.engine({
     extname: '.hbs',
     defaultLayout: 'main.hbs',
-    layoutsDir: '/views/layouts',
-    partialsDir: '/views/partials'
+    // layoutsDir: '/views/layouts',
+    // partialsDir: '/views/partials',
 }))
 
-app.use('/sessions', SessionRouter)
+app.use('/', SessionRouter)
 app.use('/products', ProductsRouter)
 
 const mongoOptions = { useNewUrlParser: true, useUnifiedTopology: true }

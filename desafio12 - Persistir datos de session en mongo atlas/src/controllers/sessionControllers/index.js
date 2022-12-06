@@ -2,8 +2,8 @@
 
 const logInUser = (req, res) => {
     try {
-        const { userName } = req.body
-        req.session.user = userName
+        // const { userName } = req.body
+        // req.session.user = userName
         res.render('login.hbs')
     } catch (error) {
         console.log(`error from logInUser - ${error}`);
@@ -22,4 +22,14 @@ const logOutUser = (req, res) => {
     }
 }
 
-export const SessionController = { logInUser, logOutUser }
+const postLogIn = (req, res) => {
+    try {
+        const { userName } = req.body
+        req.session.user = userName
+        // res.redirect('/products')
+    } catch (error) {
+        console.log(`Error desde el postLogIn`);
+    }
+}
+
+export const SessionController = { logInUser, logOutUser, postLogIn }
