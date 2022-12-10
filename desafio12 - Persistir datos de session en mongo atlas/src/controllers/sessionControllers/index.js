@@ -2,8 +2,6 @@
 
 const logInUser = (req, res) => {
     try {
-        // const { userName } = req.body
-        // req.session.user = userName
         res.render('login.hbs')
     } catch (error) {
         console.log(`error from logInUser - ${error}`);
@@ -24,9 +22,11 @@ const logOutUser = (req, res) => {
 
 const postLogIn = (req, res) => {
     try {
-        const { userName } = req.body
-        req.session.user = userName
-        // res.redirect('/products')
+        console.log('id de session: ', req.session.id);
+        const { user } = req.session.id
+        req.session.user = user
+        res.redirect('/products')
+        // res.render('products.hbs')
     } catch (error) {
         console.log(`Error desde el postLogIn`);
     }

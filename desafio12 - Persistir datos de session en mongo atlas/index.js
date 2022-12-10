@@ -20,8 +20,7 @@ app.engine('hbs', handlebars.engine({
     // partialsDir: '/views/partials',
 }))
 
-app.use('/', SessionRouter)
-app.use('/products', ProductsRouter)
+
 
 const mongoOptions = { useNewUrlParser: true, useUnifiedTopology: true }
 app.use(session({
@@ -37,8 +36,10 @@ app.use(session({
     saveUninitialized: false,
 }))
 
+app.use('/', SessionRouter)
+app.use('/products', ProductsRouter)
 
 
 app.listen(config.SERVER.PORT, () => {
-    console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 12 - Persistir datos de la session en mongo atlas`);
+    console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 12 - Persistir datos de la session en Mongo Atlas`);
 })
