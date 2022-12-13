@@ -3,6 +3,7 @@ import passport from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
 import { Strategy as GithubStrategy } from "passport-github2";
 import { UserDao } from "../dao/index.js";
+import { BCRYPT_VALIDATION } from '../utils/index.js';
 
 const init = () => {
 
@@ -21,21 +22,34 @@ const init = () => {
         passReqToCallback: true,
     }, async (req, email, password, done) => {
         try {
-            if (!email || !password) return done(null, false)
+            UserDao.getOne({ email }, (error, user) => {
 
-            const user = await UserDao.getOne({ email: email })
+                if (error) return done(null, false)
+                if (!user) {
+                    console.log(`Password or user not valid`);
+                    return done(null, false)
+                }
+                if (!BCRYPT_VALIDATION.isValidPassword(user, password)) {
+                    console.log(`Password or user not valid`);
+                    return done(null, false)
+                }
+                return done(null, user)
+            })
 
-            //BCRYPT PARA COMPARAR CONTRASEÑA
-
-            if (!user || user.password !== password) return done(null, false)
-
-            const userResponse = {
-                id: user._id,
-                email: user.email,
-                cart: user.cart
+            const newUser = {
+                email: req.body.email,
+                password: BCRYPT_VALIDATION.hashPassword(password)
             }
 
-            done(null, userResponse)
+            UserDao.save(newUser, (error, newUser) => {
+                if (error) {
+                    console.log(`We have a problem, we can't save newUser - ERROR ${error}`);
+                    return done(null, false)
+                }
+
+                console.log(`New user registered succesful - USER: ${newUser}`);
+                return done(null, true)
+            })
 
         } catch (error) {
             console.log(`error from middlewares/passportAuth - LocalStrategy`)

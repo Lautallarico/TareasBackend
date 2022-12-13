@@ -10,7 +10,7 @@ const signUp = async (req, res) => {
         const existUser = await UserDao.getOne({ email })
 
         if (existUser && existUser.password) {
-            return res.send({ success: false, error: 'el ususario ya existe' })
+            return res.send({ success: false, error: 'User already exists' })
         }
 
         if (existUser && !existUser.password) {
