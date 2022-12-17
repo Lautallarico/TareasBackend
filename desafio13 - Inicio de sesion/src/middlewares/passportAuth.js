@@ -29,17 +29,19 @@ const init = () => {
                 console.log(`Password or user not valid`);
                 return done(null, false)
             }
-            const a = BCRYPT_VALIDATION.isValidPassword(password, user)
-            console.log('decrypt pass: ', a);
 
-            if (BCRYPT_VALIDATION.isValidPassword(password, user) !== true) {
-                console.log('user ', user);
-                console.log('password: ', password);
-                console.log(`Password or user not valid ***(password)***`);
+            if (BCRYPT_VALIDATION.isValidPassword(password, user) != true) {
+                console.log(`Password or user not valid`);
                 return done(null, false)
             }
 
-            done(null, user)
+            const userResponse = {
+                id: user._id,
+                email: user.email,
+                cart: user.cart,
+            };
+
+            done(null, userResponse)
 
         } catch (error) {
             res.send({ sucess: false, message: ERRORS_UTILS.USERS.NO_USER_OR_PASSWORD })
