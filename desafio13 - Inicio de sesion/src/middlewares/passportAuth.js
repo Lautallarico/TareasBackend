@@ -3,7 +3,7 @@ import passport from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
 import { Strategy as GithubStrategy } from "passport-github2";
 import { UserDao } from "../dao/index.js";
-import { BCRYPT_VALIDATION } from '../utils/index.js';
+import { BCRYPT_VALIDATION, ERRORS_UTILS } from '../utils/index.js';
 
 const init = () => {
 
@@ -22,36 +22,27 @@ const init = () => {
         passReqToCallback: true,
     }, async (req, email, password, done) => {
         try {
-            UserDao.getOne({ email }, (error, user) => {
+            if (!email || !password) return done(null, false)
+            const user = await UserDao.getOne({ email: email })
 
-                if (error) return done(null, false)
-                if (!user) {
-                    console.log(`Password or user not valid`);
-                    return done(null, false)
-                }
-                if (!BCRYPT_VALIDATION.isValidPassword(user, password)) {
-                    console.log(`Password or user not valid`);
-                    return done(null, false)
-                }
-                return done(null, user)
-            })
+            if (!user) {
+                console.log(`Password or user not valid`);
+                return done(null, false)
+            }
+            const a = BCRYPT_VALIDATION.isValidPassword(password, user)
+            console.log('decrypt pass: ', a);
 
-            const newUser = {
-                email: req.body.email,
-                password: BCRYPT_VALIDATION.hashPassword(password)
+            if (BCRYPT_VALIDATION.isValidPassword(password, user) !== true) {
+                console.log('user ', user);
+                console.log('password: ', password);
+                console.log(`Password or user not valid ***(password)***`);
+                return done(null, false)
             }
 
-            UserDao.save(newUser, (error, newUser) => {
-                if (error) {
-                    console.log(`We have a problem, we can't save newUser - ERROR ${error}`);
-                    return done(null, false)
-                }
-
-                console.log(`New user registered succesful - USER: ${newUser}`);
-                return done(null, true)
-            })
+            done(null, user)
 
         } catch (error) {
+            res.send({ sucess: false, message: ERRORS_UTILS.USERS.NO_USER_OR_PASSWORD })
             console.log(`error from middlewares/passportAuth - LocalStrategy`)
             done(error)
         }
@@ -100,6 +91,7 @@ const init = () => {
             done(null, userResponse)
 
         } catch (error) {
+            res.send({ sucess: false, message: ERRORS_UTILS.USERS.NO_USER_OR_PASSWORD })
             console.log(`error from middlewares/passportAuth - GithubStrategy`)
             done(error)
         }
