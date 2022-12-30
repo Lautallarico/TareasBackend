@@ -1,26 +1,29 @@
 const randomNumbers = (cant) => {
-    console.log('cant dentro de la funcion randomNumbers: ' + cant);
-    const numbers = {}
+
+    const objectNumbers = {}
+
+    console.log('cant dentro de la funcion randomNumbers: ', cant);
 
     for (let i = 0; i < cant; i++) {
         const randomNumber = Math.floor(Math.random() * 1000 + 1)
-        console.log(randomNumber);
-        if (numbers[randomNumber]) {
-            numbers[randomNumber]++
+
+        console.log('randomNumber: ', randomNumber);
+
+        if (objectNumbers[randomNumber]) {
+            objectNumbers[randomNumber]++
         } else {
-            numbers[randomNumber] = 1
+            objectNumbers[randomNumber] = 1
         }
     }
 
-    console.log('numbers antes del return: ', numbers);
-    return numbers
+    console.log('numbers antes del return: ', objectNumbers);
+    return objectNumbers
 }
 
-// const objRandomNumbers = randomNumbers()
-// process.send(objRandomNumbers)
 
 process.on('message', (cant) => {
-    const objRandomNumbers = randomNumbers(cant)
-    process.send(objRandomNumbers)
+    console.log('cant dentro del process.on ', cant);
+    const result = randomNumbers(cant)
+    console.log('result: ', result);
+    process.send(result)
 })
-

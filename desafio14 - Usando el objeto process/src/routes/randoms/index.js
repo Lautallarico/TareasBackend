@@ -1,23 +1,20 @@
-import { Router } from "express"
-// import { randomNumbers } from "../../utils/index.js"
 import { fork } from 'child_process'
+import { Router } from "express"
 
 
 const router = Router()
 
+
 router.get('/', (req, res) => {
-    const cant = req.query.cant || 100000
+    const { cant } = req.query
     const subProcess = fork('randomNumbers.js')
 
     subProcess.send(cant)
+    subProcess.on('message', (cant) => {
 
-    subProcess.on('message', (numbers) => {
+        console.log('cant en el get: ', cant);
 
-        console.log('numbers en el get: '.numbers);
-
-        console.log('Object: ', Object.entries(numbers));
-
-        res.send({ sucess: true, data: numbers })
+        res.send({ sucess: true, data: cant })
         // res.render('randoms.hbs', { cant })
     })
 
