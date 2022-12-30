@@ -1,32 +1,26 @@
-export const randomNumbers = (cant) => {
-    if (!cant) {
-        cant = 1000000
-    }
-
-    let arrayNumeros = []
-
-    for (let i = 0; i <= 1000; i++) {
-        arrayNumeros[i] = 0
-    }
+const randomNumbers = (cant) => {
+    console.log('cant dentro de la funcion randomNumbers: ' + cant);
+    const numbers = {}
 
     for (let i = 0; i < cant; i++) {
-        let number = Math.floor((Math.random() * 1000 + 1))
-        arrayNumeros[number]++
-    }
-
-    let arrayData = []
-    for (let i = 0; i < arrayNumeros.length; i++) {
-        if (arrayNumeros[i] !== 0) {
-            let acumulador = { numero: i, veces: arrayNumeros[i] }
-            arrayData.push(acumulador)
+        const randomNumber = Math.floor(Math.random() * 1000 + 1)
+        console.log(randomNumber);
+        if (numbers[randomNumber]) {
+            numbers[randomNumber]++
+        } else {
+            numbers[randomNumber] = 1
         }
     }
-    return arrayData
+
+    console.log('numbers antes del return: ', numbers);
+    return numbers
 }
 
+// const objRandomNumbers = randomNumbers()
+// process.send(objRandomNumbers)
 
-process.on('message', (data) => {
-    process.send(randomNumbers(data))
+process.on('message', (cant) => {
+    const objRandomNumbers = randomNumbers(cant)
+    process.send(objRandomNumbers)
 })
-
 
