@@ -1,0 +1,12 @@
+EJECUCION SERVIDOR EN MODO FORK O CLUSTER
+
+nodemon src/index.js 
+nodemon src/index.js --CLUSTER
+nodemon src/index.js --FORK
+
+EJECUCION DE SERVIDOR CON pm2
+
+pm2 start src/index.js
+pm2 start src/index.js 8081
+pm2 start src/index.js 8081 -i max
+

@@ -46,5 +46,5 @@ app.use('/api/randoms', RandomRouter)
 app.use('/api/info', InfoRouter)
 
 
-const server = app.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 13 - Inicio de sesión`))
+const server = app.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 14 - Usando el objeto process`))
 server.on('error', error => console.log(`Error del servidor: ${error}`))

@@ -10,6 +10,12 @@ import session from 'express-session'
 import { config } from './config/index.js'
 import passport from 'passport'
 
+import cluster from 'cluster'
+import { INFO } from './utils/index.js'
+
+// import { parseArgs } from 'util'
+//de aca saco el numero de cpus
+
 const app = express()
 
 PassportAuth.init()
@@ -35,7 +41,7 @@ app.engine('hbs', handlebars.engine({
 app.set('view engine', 'hbs')
 app.set('views', './public/views')
 
-app.use(express.static('./public'))
+// app.use(express.static('./public'))
 
 
 
@@ -45,6 +51,28 @@ app.use('/api/cart', CartRouter)
 app.use('/api/randoms', RandomRouter)
 app.use('/api/info', InfoRouter)
 
+import  parseArgs from 'minimist'
+const args = parseArgs(process.argv.slice(2))
+const CLUSTER = args.CLUSTER
 
-const server = app.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 13 - Inicio de sesión`))
+const server = app.listen(config.SERVER.PORT, () => console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 15 - Ejecutar servidores node`))
 server.on('error', error => console.log(`Error del servidor: ${error}`))
+
+if (CLUSTER) {
+    if (cluster.isPrimary) {
+        console.log(`CLUSTER corriendo en nodo primario ${process.pid} - Puerto ${config.SERVER.PORT}`);
+
+        for (let i = 0; i < INFO.numeroCPUs; i++) {
+            cluster.fork()
+        }
+        cluster.on(`exit`, worker => {
+            console.log(`Worker ${worker.process.pid} finalizado.`);
+            cluster.fork();
+        });
+    } else {
+        console.log(`Nodo Worker corriendo en el proceso ${process.pid}`);
+    }
+} else {
+    console.log(`No es un cluster`);
+}
+
