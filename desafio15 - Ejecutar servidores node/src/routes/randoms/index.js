@@ -13,12 +13,8 @@ router.get('/', (req, res) => {
 
     subProcess.on('message', (numbers) => {
 
-        console.log('numbers en el get: '.numbers);
-
-        console.log('Object: ', Object.entries(numbers));
-
-        res.send({ sucess: true, data: numbers })
-        // res.render('randoms.hbs', { cant })
+        // res.send({ sucess: true, data: numbers })
+        res.render('randoms.hbs', { data: numbers })
     })
 
 })
