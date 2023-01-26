@@ -1,0 +1,13 @@
+<div style="padding: 30px 0 30px 30px">
+    <h2>RANDOMS</h2>
+    <p>Te pongo el boton al principio porque si no le pusiste el params tenes que scrollear bocha</p>
+    <div style="padding: 20px;">
+        <button onclick="location.href='/'">VOLVER AL INICIO</button>
+    </div>
+
+    <ul style="padding: 30px 0 30px 30px">
+        {{#each data}}
+        <li>El numero {{@key}} se repitió {{this}} ves/veces</li>
+        {{/each}}
+    </ul>
+</div>

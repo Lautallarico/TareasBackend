@@ -1,0 +1,726 @@
+{"level":30,"time":1673121856205,"pid":3824,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 16 - Analisis completo de performance"}
+{"level":40,"time":1673123378297,"pid":13456,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":50,"time":1673124165733,"pid":18980,"hostname":"Lautaro","msg":"Credenciales incorrectas"}{"level":30,"time":1673740001857,"pid":15008,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1673740001857,"pid":15008,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1673740204890,"pid":13664,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1673740204891,"pid":13664,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1673740422624,"pid":9844,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1673740422624,"pid":9844,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674163979578,"pid":1040,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674163979580,"pid":1040,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164084064,"pid":17860,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164084065,"pid":17860,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164114014,"pid":3636,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164114016,"pid":3636,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164147205,"pid":8124,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164147206,"pid":8124,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164154147,"pid":14776,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164154150,"pid":14776,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164186947,"pid":14044,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164186948,"pid":14044,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164191360,"pid":13832,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164191362,"pid":13832,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674164193003,"pid":1084,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674164193004,"pid":1084,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674431672783,"pid":10812,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431672784,"pid":10812,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674431675970,"pid":9500,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431675972,"pid":9500,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674431727751,"pid":12180,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431727753,"pid":12180,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674431766502,"pid":8300,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431766508,"pid":8300,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674431831399,"pid":7244,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431831406,"pid":7244,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674431831428,"pid":7244,"hostname":"Lautaro","msg":"error from sendMail: Error: connect ECONNREFUSED 127.0.0.1:587"}
+{"level":30,"time":1674431837089,"pid":13112,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674431837097,"pid":13112,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674431838078,"pid":13112,"hostname":"Lautaro","msg":"error from sendMail: Error: Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials s23-20020a4ae557000000b0049f5ce88583sm22258250oot.7 - gsmtp"}
+{"level":30,"time":1674432241106,"pid":16068,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674432241113,"pid":16068,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674432325278,"pid":13252,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674432325290,"pid":13252,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674433674043,"pid":16076,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674433674044,"pid":16076,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674433877977,"pid":3788,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674433877978,"pid":3788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674433983927,"pid":6848,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674433983928,"pid":6848,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674434073341,"pid":15336,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674434073343,"pid":15336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674434074777,"pid":588,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674434074778,"pid":588,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674434082400,"pid":3840,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674434082401,"pid":3840,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674434102742,"pid":14452,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674434102743,"pid":14452,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674434112841,"pid":1468,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674434112842,"pid":1468,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674515515952,"pid":10392,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674515515954,"pid":10392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":40,"time":1674515538945,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538952,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538955,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538959,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538962,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538965,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538968,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538971,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538974,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538977,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538981,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538983,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538986,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538989,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538993,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538995,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515538998,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515539000,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515539003,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515539006,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540048,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540052,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540055,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540059,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540062,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540065,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540068,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540071,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540075,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540078,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540081,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540084,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540087,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540092,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540094,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540097,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540099,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540102,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540104,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515540108,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541041,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541045,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541049,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541051,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541054,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541057,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541060,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541064,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541067,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541070,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541073,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541076,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541079,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541082,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541085,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541088,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541091,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541095,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541097,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674515541100,"pid":10392,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":30,"time":1674516215923,"pid":9556,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516215924,"pid":9556,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516220265,"pid":9700,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516220267,"pid":9700,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516221988,"pid":5408,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516221990,"pid":5408,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516224351,"pid":10056,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516224353,"pid":10056,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516248572,"pid":3624,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516248574,"pid":3624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516252898,"pid":16436,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516252899,"pid":16436,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516256567,"pid":2036,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516256568,"pid":2036,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516273142,"pid":8116,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516273143,"pid":8116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516274764,"pid":17300,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516274766,"pid":17300,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516280101,"pid":9892,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516280102,"pid":9892,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516390837,"pid":16432,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516390838,"pid":16432,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516395104,"pid":12968,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516395105,"pid":12968,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516522745,"pid":16764,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516522747,"pid":16764,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516527150,"pid":12672,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516527151,"pid":12672,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516548817,"pid":7860,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516548820,"pid":7860,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516560236,"pid":10324,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516560238,"pid":10324,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674516561347,"pid":10324,"hostname":"Lautaro","msg":"error desde el getAll: TypeError: Cannot read properties of undefined (reading '0')"}
+{"level":30,"time":1674516570082,"pid":4376,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516570084,"pid":4376,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516793510,"pid":14392,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516793512,"pid":14392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516795147,"pid":7084,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516795148,"pid":7084,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516844429,"pid":5620,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516844431,"pid":5620,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516845812,"pid":16488,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516845813,"pid":16488,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516910393,"pid":14892,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516910394,"pid":14892,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674516911611,"pid":14892,"hostname":"Lautaro","msg":"error desde el getAll: ReferenceError: data is not defined"}
+{"level":30,"time":1674516918142,"pid":18112,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516918143,"pid":18112,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516924224,"pid":7572,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516924226,"pid":7572,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516937021,"pid":11060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516937022,"pid":11060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516958840,"pid":12740,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516958842,"pid":12740,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516964494,"pid":15336,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516964496,"pid":15336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674516972066,"pid":2604,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674516972069,"pid":2604,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517034612,"pid":12884,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517034613,"pid":12884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517039883,"pid":11484,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517039884,"pid":11484,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517049172,"pid":6700,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517049174,"pid":6700,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517054367,"pid":15772,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517054368,"pid":15772,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674517055121,"pid":15772,"hostname":"Lautaro","msg":"error desde el getAll: TypeError: Failed to parse URL from /api/products"}
+{"level":30,"time":1674517078830,"pid":6060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517078831,"pid":6060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517266812,"pid":11348,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517266813,"pid":11348,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517269375,"pid":7716,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517269376,"pid":7716,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517463142,"pid":10572,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517463143,"pid":10572,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517466992,"pid":7896,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517466993,"pid":7896,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517469558,"pid":2760,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517469559,"pid":2760,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517471533,"pid":9236,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517471536,"pid":9236,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517768750,"pid":4868,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517768751,"pid":4868,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517771930,"pid":1328,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517771932,"pid":1328,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517775799,"pid":8400,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517775800,"pid":8400,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517777135,"pid":3836,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517777137,"pid":3836,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517843762,"pid":7676,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517843763,"pid":7676,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517846139,"pid":11200,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517846140,"pid":11200,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517850733,"pid":6364,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517850734,"pid":6364,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674517856657,"pid":5700,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674517856658,"pid":5700,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674518422287,"pid":18256,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674518422289,"pid":18256,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674518461028,"pid":18256,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674518491497,"pid":18256,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674518507568,"pid":18256,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674518532609,"pid":18256,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":40,"time":1674518534757,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534761,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534764,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534767,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534769,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534772,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534775,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534778,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534781,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534784,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534786,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534790,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534792,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534795,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534798,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534800,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534803,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534807,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534810,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518534812,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535844,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535848,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535850,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535853,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535856,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535861,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535863,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535866,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535869,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535872,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535877,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535880,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535883,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535886,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535889,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535893,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535896,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535898,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535901,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518535903,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537718,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537722,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537726,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537730,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537732,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537734,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537737,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537740,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537744,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537747,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537750,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537753,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537756,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537760,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537763,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537766,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537768,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537771,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537773,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518537776,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539421,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539423,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539426,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539431,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539434,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539436,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539439,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539442,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539446,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539449,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539453,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539456,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539460,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539463,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539466,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539468,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539471,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539473,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539475,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518539479,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544508,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544512,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544515,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544519,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544522,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544525,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544528,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544531,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544534,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544537,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544540,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544543,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544546,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544551,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544554,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544557,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544559,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544561,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544564,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1674518544567,"pid":18256,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":30,"time":1674594298295,"pid":11156,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594298297,"pid":11156,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594585036,"pid":7800,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594585038,"pid":7800,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594610733,"pid":12060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594610735,"pid":12060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594623744,"pid":17240,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594623746,"pid":17240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594665237,"pid":9624,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594665238,"pid":9624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594670101,"pid":10480,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594670103,"pid":10480,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594715795,"pid":11332,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594715796,"pid":11332,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594727945,"pid":14824,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594727947,"pid":14824,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594731308,"pid":3536,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594731310,"pid":3536,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594733130,"pid":17312,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594733131,"pid":17312,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594743052,"pid":13932,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594743053,"pid":13932,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594746944,"pid":10208,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594746946,"pid":10208,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594748319,"pid":16420,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594748321,"pid":16420,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594775608,"pid":11696,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594775609,"pid":11696,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594777318,"pid":8764,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594777320,"pid":8764,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594779988,"pid":8352,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594779990,"pid":8352,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594787250,"pid":10224,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594787252,"pid":10224,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594797467,"pid":13624,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594797474,"pid":13624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594801431,"pid":17848,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594801433,"pid":17848,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594821720,"pid":7152,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594821722,"pid":7152,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594866839,"pid":16128,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594866840,"pid":16128,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594871750,"pid":10268,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594871752,"pid":10268,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594877163,"pid":3920,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594877164,"pid":3920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594912429,"pid":8400,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594912433,"pid":8400,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594925719,"pid":624,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594925720,"pid":624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674594948208,"pid":13520,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674594948210,"pid":13520,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595016553,"pid":14764,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595016554,"pid":14764,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595033128,"pid":7228,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595033129,"pid":7228,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595045745,"pid":3784,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595045746,"pid":3784,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595099695,"pid":1952,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595099696,"pid":1952,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595110946,"pid":16572,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595110948,"pid":16572,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595313373,"pid":6996,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595313375,"pid":6996,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595324661,"pid":11060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595324663,"pid":11060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595508322,"pid":7068,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595508324,"pid":7068,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595515873,"pid":3600,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595515874,"pid":3600,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595517541,"pid":15200,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595517542,"pid":15200,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595534503,"pid":17644,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595534505,"pid":17644,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595540145,"pid":17876,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595540146,"pid":17876,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595546014,"pid":9476,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595546016,"pid":9476,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595575895,"pid":13060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595575897,"pid":13060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595577391,"pid":14520,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595577392,"pid":14520,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674595586641,"pid":17828,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674595586642,"pid":17828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674595636160,"pid":17828,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674595647394,"pid":17828,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":30,"time":1674596586239,"pid":4392,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596586241,"pid":4392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596599008,"pid":13456,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596599009,"pid":13456,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596608119,"pid":13872,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596608120,"pid":13872,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596613513,"pid":8388,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596613514,"pid":8388,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596625785,"pid":9884,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596625786,"pid":9884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596672540,"pid":328,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596672542,"pid":328,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596675076,"pid":11648,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596675078,"pid":11648,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596704936,"pid":8576,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596704938,"pid":8576,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596709276,"pid":2108,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596709278,"pid":2108,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596714179,"pid":13060,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596714181,"pid":13060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596721288,"pid":3744,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596721289,"pid":3744,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596726533,"pid":14168,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596726535,"pid":14168,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596730217,"pid":12100,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596730218,"pid":12100,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596732739,"pid":12756,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596732740,"pid":12756,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596758127,"pid":15336,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596758128,"pid":15336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596787162,"pid":3604,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596787163,"pid":3604,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596789645,"pid":10592,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596789647,"pid":10592,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596793215,"pid":8836,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596793217,"pid":8836,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674596887984,"pid":16632,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674596887986,"pid":16632,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674683692528,"pid":17752,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674683692529,"pid":17752,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674683813292,"pid":6904,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674683813293,"pid":6904,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674683979276,"pid":6904,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674683988267,"pid":6904,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684009953,"pid":6904,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":30,"time":1674684121511,"pid":15452,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674684121513,"pid":15452,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":50,"time":1674684124666,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684366635,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684539202,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684545129,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684583062,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":50,"time":1674684596746,"pid":15452,"hostname":"Lautaro","msg":"Credenciales incorrectas"}
+{"level":30,"time":1674684888063,"pid":14292,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674684888064,"pid":14292,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674684891361,"pid":15708,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674684891362,"pid":15708,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685154360,"pid":1328,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685154361,"pid":1328,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685160340,"pid":13316,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685160341,"pid":13316,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685162512,"pid":10092,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685162514,"pid":10092,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685252770,"pid":588,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685252771,"pid":588,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685260454,"pid":18392,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685260456,"pid":18392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685265282,"pid":11504,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685265284,"pid":11504,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685269729,"pid":1836,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685269730,"pid":1836,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685276525,"pid":9892,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685276526,"pid":9892,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685291375,"pid":15544,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685291376,"pid":15544,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685304087,"pid":13504,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685304088,"pid":13504,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685416002,"pid":14848,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685416003,"pid":14848,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685497721,"pid":1776,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685497722,"pid":1776,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685504206,"pid":13384,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685504207,"pid":13384,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685505670,"pid":2364,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685505672,"pid":2364,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685508376,"pid":9272,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685508377,"pid":9272,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685517300,"pid":10936,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685517302,"pid":10936,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685519369,"pid":6336,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685519370,"pid":6336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685520993,"pid":17764,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685520994,"pid":17764,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685527417,"pid":15148,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685527418,"pid":15148,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685637720,"pid":5916,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685637721,"pid":5916,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685766766,"pid":14788,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685766767,"pid":14788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685768130,"pid":11616,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685768131,"pid":11616,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685770038,"pid":13276,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685770039,"pid":13276,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674685782326,"pid":13348,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674685782327,"pid":13348,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686601244,"pid":15148,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686601246,"pid":15148,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686604122,"pid":8692,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686604123,"pid":8692,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686676314,"pid":8112,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686676320,"pid":8112,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686681322,"pid":9464,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686681324,"pid":9464,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686683117,"pid":17148,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686683119,"pid":17148,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686687399,"pid":10796,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686687401,"pid":10796,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686694632,"pid":12240,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686694633,"pid":12240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686722814,"pid":6424,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686722816,"pid":6424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686728929,"pid":10984,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686728930,"pid":10984,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686755243,"pid":9472,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686755244,"pid":9472,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686763281,"pid":12488,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686763284,"pid":12488,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686765807,"pid":11580,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686765808,"pid":11580,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686836346,"pid":11272,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686836347,"pid":11272,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686848037,"pid":7184,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686848038,"pid":7184,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686851604,"pid":13148,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686851605,"pid":13148,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686855224,"pid":18132,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686855226,"pid":18132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686858399,"pid":6756,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686858400,"pid":6756,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686861653,"pid":16428,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686861654,"pid":16428,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686867052,"pid":16640,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686867053,"pid":16640,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686872692,"pid":12496,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686872694,"pid":12496,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686875902,"pid":16112,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686875903,"pid":16112,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686877153,"pid":11160,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686877154,"pid":11160,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674686908876,"pid":8416,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674686908877,"pid":8416,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687281871,"pid":5424,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687281873,"pid":5424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687283433,"pid":17464,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687283434,"pid":17464,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687346867,"pid":17880,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687346868,"pid":17880,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687362285,"pid":14828,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687362286,"pid":14828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687393738,"pid":10920,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687393740,"pid":10920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 17 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687522759,"pid":5936,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687522760,"pid":5936,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Implementar nuestro proyecto en Vercel"}
+{"level":30,"time":1674687530914,"pid":11444,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687530915,"pid":11444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre"}
+{"level":30,"time":1674687534180,"pid":8992,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687534183,"pid":8992,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674687540666,"pid":10432,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674687540668,"pid":10432,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689002900,"pid":7340,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689002902,"pid":7340,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689008400,"pid":17316,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689008407,"pid":17316,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689022002,"pid":9752,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689022004,"pid":9752,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689035028,"pid":13692,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689035029,"pid":13692,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689036279,"pid":1404,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689036281,"pid":1404,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689143069,"pid":1164,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689143071,"pid":1164,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689152395,"pid":6636,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689152397,"pid":6636,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674689233194,"pid":15708,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674689233196,"pid":15708,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690012500,"pid":740,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690012501,"pid":740,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690018873,"pid":10704,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690018874,"pid":10704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690035972,"pid":2132,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690035973,"pid":2132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690600727,"pid":2804,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690600728,"pid":2804,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690608105,"pid":3732,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690608106,"pid":3732,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690611665,"pid":8104,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690611667,"pid":8104,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690631254,"pid":17320,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690631255,"pid":17320,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690658014,"pid":11996,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690658016,"pid":11996,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690660257,"pid":9084,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690660258,"pid":9084,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690689492,"pid":17780,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690689494,"pid":17780,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690693100,"pid":17244,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690693101,"pid":17244,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690716331,"pid":10508,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690716332,"pid":10508,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690724666,"pid":13192,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690724668,"pid":13192,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690810130,"pid":14828,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690810132,"pid":14828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690812078,"pid":9412,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690812080,"pid":9412,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690818053,"pid":14596,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690818055,"pid":14596,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690819710,"pid":8064,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690819712,"pid":8064,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690821629,"pid":17332,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690821630,"pid":17332,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690826726,"pid":10008,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690826728,"pid":10008,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690829187,"pid":8080,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690829188,"pid":8080,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690832552,"pid":9880,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690832553,"pid":9880,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690834627,"pid":2380,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690834629,"pid":2380,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690837577,"pid":12200,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690837579,"pid":12200,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690839174,"pid":9240,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690839176,"pid":9240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690857420,"pid":6700,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690857422,"pid":6700,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690858613,"pid":9944,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690858615,"pid":9944,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690859866,"pid":11996,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690859867,"pid":11996,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690862667,"pid":14320,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690862668,"pid":14320,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690962806,"pid":14112,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690962807,"pid":14112,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690985190,"pid":2992,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690985192,"pid":2992,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674690986849,"pid":10136,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674690986851,"pid":10136,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691005515,"pid":936,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691005518,"pid":936,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691008016,"pid":8608,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691008017,"pid":8608,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691010996,"pid":3664,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691010997,"pid":3664,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691035018,"pid":14428,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691035019,"pid":14428,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691045998,"pid":10876,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691046000,"pid":10876,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691049403,"pid":7576,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691049405,"pid":7576,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691050641,"pid":16084,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691050642,"pid":16084,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691065285,"pid":9884,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691065286,"pid":9884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691072019,"pid":12860,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691072021,"pid":12860,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691079757,"pid":16368,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691079758,"pid":16368,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691081080,"pid":11432,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691081082,"pid":11432,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691082523,"pid":17460,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691082525,"pid":17460,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691231677,"pid":11168,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691231678,"pid":11168,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691263560,"pid":14920,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691263562,"pid":14920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691265381,"pid":12928,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691265382,"pid":12928,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691271719,"pid":6660,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691271721,"pid":6660,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691273869,"pid":14512,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691273871,"pid":14512,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691275679,"pid":14828,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691275680,"pid":14828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691350081,"pid":2088,"hostname":"Lautaro","msg":"http://localhost:8080/api/auth"}
+{"level":30,"time":1674691350083,"pid":2088,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691453686,"pid":11388,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691453688,"pid":11388,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691483361,"pid":16368,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691483363,"pid":16368,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691485463,"pid":15004,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691485464,"pid":15004,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691500235,"pid":12240,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691500236,"pid":12240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691502111,"pid":4560,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691502113,"pid":4560,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691549360,"pid":6132,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691549361,"pid":6132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691554373,"pid":13424,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691554375,"pid":13424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691619546,"pid":7608,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691619547,"pid":7608,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691623932,"pid":11684,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691623934,"pid":11684,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691632950,"pid":7036,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691632952,"pid":7036,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674691681865,"pid":9444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674691681866,"pid":9444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674759726092,"pid":7512,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674759726093,"pid":7512,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674759728811,"pid":14656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674759728812,"pid":14656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674759968297,"pid":7428,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674759968299,"pid":7428,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674759974368,"pid":11524,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674759974369,"pid":11524,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
+{"level":30,"time":1674759977870,"pid":13432,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1674759977871,"pid":13432,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 18 - Tercer pre-entrega"}
