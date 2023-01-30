@@ -39,7 +39,9 @@ const createProduct = async (req, res, cb) => {
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
         const savedProduct = await ProductDao.save(product)
 
-        res.send(savedProduct)
+
+        
+        // res.send(savedProduct)
 
     } catch (error) {
         console.log(error, `error from createProduct`);

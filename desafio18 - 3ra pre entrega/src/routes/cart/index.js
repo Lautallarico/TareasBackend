@@ -16,6 +16,8 @@ router.get('/:cartId/products', CartController.productsInCart)
 
 router.get('/:id', CartController.cartById)
 
+router.get('/:id/buyCart', CartController.buyCart)
+
 router.get('*', IncorrectRoute.errorRoutes)
 
 export { router as CartRouter }

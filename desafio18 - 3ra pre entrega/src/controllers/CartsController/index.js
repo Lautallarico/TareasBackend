@@ -122,36 +122,51 @@ const cartById = async (req, res) => {
 const buyCart = async (req, res) => {
     //funcion sin terminar ni probar
     try {
-        let userName = req.user.name
-        let userEmail = req.user.email
-        const { cartId } = req.params
+        // let userName = req.user.name
+        // console.log('userName: ', userName);
+        // let userEmail = req.user.email
+        // console.log('userEmail: ', userEmail);
+        const { id } = req.params
 
-        const cart = await CartDao.getById(cartId)
+        const cart = await CartDao.getById(id)
         if (!cart) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CART })
 
-        const productsInCart = await cart.products
+        // cart.products.forEach(e => {
+        //     console.log('productos en carrito: ', e.title);
+        // });
+
 
         let subject = 'Nuevo pedido!'
         let mailTo = 'lauta.tallarico@gmail.com' //ver de configurar un mail en env
 
-        //aca ver de hacer un for/foreach
+
+        let listado = cart.products.forEach(element => {
+                `
+                <li>${element.title}</li>
+                `
+            // console.log('producto: ',element.title);
+        });
+
+
         let html = `
-                    <h3>Nuevo pedido de: </h3>
-                    <p> Datos:</p>
-                    <ul>
-                        <li></li>
-                    </ul>
-        `
+                        <h3>Nuevo pedido de: prueba </h3>
+                        <p> Datos:</p>
+                        <ul>
+                            ${listado}
+                        </ul>
+                    `
+
+
 
         await EMAIL_UTILS.sendEmail(mailTo, subject, html)
 
         const options = {
-            body: `Nuevo pedido de: ${userName} - ${userEmail}`
+            body: `Nuevo pedido de: prueba`
         }
 
         await SEND_WHATSAPP.whatsappConfig(options)
 
-
+        res.send({ success: true, cart })
 
     } catch (error) {
         console.log(error, `error from cartById`);
@@ -160,4 +175,4 @@ const buyCart = async (req, res) => {
     }
 }
 
-export const CartController = { saveCart, updatedCartById, deleteCart, deleteProductFromCart, productsInCart, cartById }
+export const CartController = { saveCart, updatedCartById, deleteCart, deleteProductFromCart, buyCart, productsInCart, cartById }

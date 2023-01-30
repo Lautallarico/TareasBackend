@@ -13,9 +13,12 @@ const whatsappConfig = async (options) => {
     try {
         const message = await client.messages.create({
             body: options.body,
-            from: whatsappServer, //numero de twilio
-            to: whatsappAdmin // aca iria mi numero
+            from: whatsappServer, 
+            to: whatsappAdmin 
         })
+
+        console.log('message: ', message);
+
     } catch (error) {
         console.log('error from sendWhatsapp', error);
         logger.error('error from sendWhatsapp', error)
