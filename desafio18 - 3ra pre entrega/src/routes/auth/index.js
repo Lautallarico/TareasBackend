@@ -49,7 +49,9 @@ router.get('/welcome', (req, res) => {
 
 
 //GITHUB
-router.get('/github-login', passport.authenticate('github'), AuthControllers.githubLogin)
+router.get('/github-login', passport.authenticate('github'), (req, res) => {
+    res.send({ success: true, message: 'Bienvenido desde github' })
+})
 
 router.get('/github', passport.authenticate('github'), (req, res) => {
     res.send(req.user)

@@ -31,7 +31,6 @@ const getById = async (req, res) => {
     }
 }
 
-
 const createProduct = async (req, res, cb) => {
     try {
         const { title, description, code, price, thumbnail, stock } = req.body
@@ -39,9 +38,8 @@ const createProduct = async (req, res, cb) => {
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
         const savedProduct = await ProductDao.save(product)
 
-
-        
-        // res.send(savedProduct)
+        res.send({ success: true, data: savedProduct })
+        // res.redirect('/api/products/')
 
     } catch (error) {
         console.log(error, `error from createProduct`);
@@ -59,6 +57,8 @@ const deleteProduct = async (req, res) => {
         }
 
         res.send({ success: true, data: product })
+        // res.redirect('/api/products/')
+
     } catch (error) {
         console.log(error, `error from deleteProduct`);
         res.send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })

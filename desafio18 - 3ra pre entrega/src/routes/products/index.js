@@ -10,7 +10,11 @@ router.get('/', ProductController.getAll)
 
 router.get('/:id', ProductController.getById)
 
-router.post('/', Authentications.verifyRole, ProductController.createProduct)
+// router.post('/', Authentications.verifyRole, ProductController.createProduct) este esta bien
+router.get('/create-product', Authentications.verifyRole, (req, res) => {
+    res.render('create-product.hbs')
+})
+router.post('/create-product', Authentications.verifyRole, ProductController.createProduct)
 
 router.delete('/:id', ProductController.deleteProduct)
 

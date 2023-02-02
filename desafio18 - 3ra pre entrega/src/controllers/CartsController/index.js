@@ -139,14 +139,18 @@ const buyCart = async (req, res) => {
         let subject = 'Nuevo pedido!'
         let mailTo = 'lauta.tallarico@gmail.com' //ver de configurar un mail en env
 
+        //me manda mail con la coma VER ESO EL VIERNES
+        let listado = cart.products.map(({ title }) => (
+            `
+            <li>${title}</li>
+            `
+        ))
 
-        let listado = cart.products.forEach(element => {
-                `
-                <li>${element.title}</li>
-                `
-            // console.log('producto: ',element.title);
-        });
-
+        //para las pruebas
+        // let listado = cart.products.map(({ title }) => (
+        //     title
+        // ))
+        console.log('listado: ', listado);
 
         let html = `
                         <h3>Nuevo pedido de: prueba </h3>
