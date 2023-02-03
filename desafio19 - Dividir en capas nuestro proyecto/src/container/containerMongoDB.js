@@ -8,6 +8,7 @@ class ContainerMongoDB {
 
     async getAll() {
         const response = await this.model.find().lean().exec()
+        // const response = await this.model.find()
         return response
     }
 

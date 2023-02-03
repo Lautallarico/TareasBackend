@@ -1,12 +1,10 @@
 
-import { mongoose, Schema } from "mongoose";
+import { Schema } from "mongoose";
 
 const ProductCollection = 'products'
 
 const ProductSchema = new Schema(
     {
-        // _id: { type: Object, require: false },
-        // _id: mongoose.Schema.Types.ObjectId,
         title: { type: String, require: true, max: 100 },
         description: { type: String, require: true, max: 150 },
         code: { type: String, require: true, max: 10 },

@@ -7,13 +7,10 @@ import { ProductController } from '../../controllers/index.js'
 const router = Router()
 
 router.get('/', ProductController.getAll)
-router.get('/:id', ProductController.getById)
-router.post('/', Authentications.verifyRole, ProductController.createProduct) 
-// router.get('/create-product', Authentications.verifyRole, (req, res) => {
-//     res.render('create-product.hbs')
-// })
-// router.post('/create-product', Authentications.verifyRole, ProductController.createProduct)
 
+router.get('/create-product', Authentications.verifyRole, ProductController.viewsCreateProduct)
+router.post('/create-product', Authentications.verifyRole, ProductController.createProduct)
+router.get('/:id', ProductController.getById)
 router.delete('/:id', ProductController.deleteProduct)
 router.get('*', IncorrectRoute.errorRoutes)
 

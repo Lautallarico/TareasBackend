@@ -1,4 +1,5 @@
 
+// import mongoose from 'mongoose'
 import { ProductDao } from '../../dao/index.js'
 import logger from '../../loggers/loggers.js'
 import { DATE_UTILS, ERRORS_UTILS, JOI_VALIDATOR } from '../../utils/index.js'
@@ -35,15 +36,15 @@ const createProduct = async (req, res, cb) => {
         const { title, description, code, price, thumbnail, stock } = req.body
 
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
-        const savedProduct = await ProductDao.save(product)
 
-        res.send({ success: true, data: savedProduct })
-        // res.redirect('/api/products/')
+        await ProductDao.save(product)
+
+        res.redirect('/api/products/')
 
     } catch (error) {
         logger.error(error, `error from createProduct`);
         console.log(error, `error from createProduct`);
-        res.send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
+        res.redirect('/api/products/')
     }
 }
 
@@ -78,4 +79,8 @@ const listProducts = async (req, res) => {
     }
 }
 
-export const ProductController = { getAll, getById, createProduct, deleteProduct, listProducts }
+const viewsCreateProduct = async (req, res) => {
+    res.render('create-product.hbs')
+}
+
+export const ProductController = { getAll, getById, createProduct, deleteProduct, listProducts, viewsCreateProduct }

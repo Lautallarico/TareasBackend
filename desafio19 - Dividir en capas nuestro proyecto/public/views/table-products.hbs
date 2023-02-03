@@ -2,13 +2,16 @@
     <h1 class="title">Lista de productos</h1>
 
     <div style="display: flex; flex-direction: row; align-content: center; justify-content: center;">
+        <div style="display: flex; justify-content: center; padding: 30px 10px 30px 10px; ">
+            <button class="btn btn-dark mt-2" style="width: 10rem;" onclick="location.href='/api/products/create-product'">CREAR PRODUCTO</button>
+        </div>
 
         <div style="display: flex; justify-content: center; padding: 30px 10px 30px 10px; ">
-            <button onclick="location.href='/api/auth/login'">VOLVER AL INICIO</button>
+            <button class="btn btn-dark mt-2" style="width: 10rem;" onclick="location.href='/api/auth/login'">VOLVER AL INICIO</button>
         </div>
 
         <div style="display: flex; justify-content: center; padding: 30px 10px 30px 10px;">
-            <button onclick="#">VER SELECCIONADOS</button>
+            <button class="btn btn-dark mt-2" style="width: 10rem;" onclick="#">VER SELECCIONADOS</button>
         </div>
 
     </div>
@@ -35,7 +38,7 @@
             <td>{{this.description}}</td>
             <td>{{this.stock}}</td>
             <td><img height="72px" width="72px" src={{this.thumbnail}} /></td>
-            <td><button onclick="#">AGREGAR AL CARRITO</button></td>
+            <td><button class="btn btn-dark mt-2" style="width: 10rem;" onclick="#">AGREGAR AL CARRITO</button></td>
         </tr>
         {{/each}}
         {{else}}
