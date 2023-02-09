@@ -1438,3 +1438,15 @@
 {"level":30,"time":1675975613326,"pid":2792,"hostname":"Lautaro","msg":"http://localhost:8080/"}
 {"level":30,"time":1675975613326,"pid":2792,"hostname":"Lautaro","msg":"No es un cluster"}
 {"level":30,"time":1675975613327,"pid":2792,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 19 - Dividir en capas nuestro proyecto"}
+{"level":30,"time":1675976618516,"pid":9088,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1675976618733,"pid":9088,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1675976618733,"pid":9088,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1675976618733,"pid":9088,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 19 - Dividir en capas nuestro proyecto"}
+{"level":30,"time":1675976733940,"pid":14772,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1675976734160,"pid":14772,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1675976734160,"pid":14772,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1675976734160,"pid":14772,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 20 - Mejorar la arquitectura de nuestra API"}
+{"level":30,"time":1675976747069,"pid":11920,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1675976747347,"pid":11920,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1675976747347,"pid":11920,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1675976747347,"pid":11920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 20 - Mejorar la arquitectura de nuestra API"}

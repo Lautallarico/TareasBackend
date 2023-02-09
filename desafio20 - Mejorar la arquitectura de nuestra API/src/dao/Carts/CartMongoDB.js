@@ -17,6 +17,9 @@ export class CartsMongo extends ContainerMongoDB {
             name: CartModel.CartCollection,
             schema: CartModel.CartSchema
         });
+
+        CartsMongo.instance = this
+        return this
     }
 
     async getById(id) {

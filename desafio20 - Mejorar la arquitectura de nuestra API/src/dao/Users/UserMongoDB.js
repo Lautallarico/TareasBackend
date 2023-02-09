@@ -17,5 +17,8 @@ export class UsersMongo extends ContainerMongoDB {
             name: UserModel.UserCollection,
             schema: UserModel.UserSchema,
         });
+        
+        UsersMongo.instance = this
+        return this
     }
 }

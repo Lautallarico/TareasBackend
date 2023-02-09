@@ -18,5 +18,8 @@ export class ProductsMongo extends ContainerMongoDB {
             name: ProductModel.ProductCollection,
             schema: ProductModel.ProductSchema,
         });
+
+        ProductsMongo.instance = this
+        return this
     }
 }

@@ -56,8 +56,8 @@ const args = parseArgs(process.argv.slice(2))
 const CLUSTER = args.CLUSTER
 
 app.listen(config.SERVER.PORT, () => {
-    logger.info(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 19 - Dividir en capas nuestro proyecto`)
-    console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 19 - Dividir en capas nuestro proyecto`)
+    logger.info(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 20 - Mejorar la arquitectura de nuestra API`)
+    console.log(`Server inicializado en el puerto ${config.SERVER.PORT} - Desafio 20 - Mejorar la arquitectura de nuestra API`)
 }).on('error', error => {
     logger.error(`Error del servidor: ${error}`)
 })
