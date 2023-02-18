@@ -22,4 +22,5 @@ export class ProductsMongo extends ContainerMongoDB {
         ProductsMongo.instance = this
         return this
     }
+    
 }

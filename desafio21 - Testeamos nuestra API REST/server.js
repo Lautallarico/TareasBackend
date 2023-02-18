@@ -16,7 +16,7 @@ import { INFO } from './src/utils/index.js'
 import logger from './src/loggers/loggers.js'
 
 
-const app = express()
+export const app = express()
 
 PassportAuth.init()
 
