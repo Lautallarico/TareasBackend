@@ -1,4 +1,3 @@
-
 import { ProductDao } from '../../dao/index.js'
 import logger from '../../loggers/loggers.js'
 import { DATE_UTILS, ERRORS_UTILS, JOI_VALIDATOR } from '../../utils/index.js'
@@ -6,7 +5,7 @@ import { DATE_UTILS, ERRORS_UTILS, JOI_VALIDATOR } from '../../utils/index.js'
 
 const getAll = async (req, res) => {
     try {
-        const allProducts = await ProductDao.getAll()
+        const allProducts = await ProductDao.getAllProducts()
         res.render('table-products.hbs', { data: allProducts })
     } catch (error) {
         console.log(error, `error from getAll`);
@@ -18,7 +17,7 @@ const getAll = async (req, res) => {
 const getById = async (req, res) => {
     try {
         const { id } = req.params
-        const product = await ProductDao.getById(id)
+        const product = await ProductDao.getProductById(id)
         if (!product) {
             return res.send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
         }
@@ -35,8 +34,7 @@ const createProduct = async (req, res, cb) => {
         const { title, description, code, price, thumbnail, stock } = req.body
 
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
-
-        await ProductDao.save(product)
+        await ProductDao.saveProduct(product)
 
         res.redirect('/api/products/')
 
@@ -50,7 +48,7 @@ const createProduct = async (req, res, cb) => {
 const deleteProduct = async (req, res) => {
     try {
         const { id } = req.params
-        const product = await ProductDao.deleteById(id)
+        const product = await ProductDao.deleteProductById(id)
 
         if (!product) {
             return res.send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
@@ -69,7 +67,7 @@ const deleteProduct = async (req, res) => {
 
 const listProducts = async (req, res) => {
     try {
-        const allProducts = await ProductDao.getAll()
+        const allProducts = await ProductDao.getAllProducts()
         res.render('list-products.hbs', { data: allProducts })
     } catch (error) {
         console.log(error, `error from listProducts`);

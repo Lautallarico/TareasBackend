@@ -1,0 +1,38 @@
+
+mutation {
+    createProduct(datos: {
+        title: "Producto graphql",
+        description: "Producto graphql",
+        code: "qihq12", 
+        price: 999,
+        thumbnail: "graphql.jpg",
+        stock: 999,
+    })
+}
+
+mutation {
+  deleteProductById(_id: "637c0a85c83688f333388a15")
+}
+
+mutation {
+  updateProductById(_id: "63f7aaa613292ae54d747818", datos: {
+    	title: "Producto graphql",
+      description: "Producto graphql",
+      code: "qihq12",
+      thumbnail: "graphql.jpg",
+      price: 999,
+      stock: 999,
+  })
+}
+
+query {
+    getAllProducts{
+      	_id
+        title
+        code
+    }
+}
+
+query {
+   getProductById(_id: "637c0a85c83688f333388a15")
+}

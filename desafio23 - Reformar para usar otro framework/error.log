@@ -1,0 +1,1033 @@
+{"level":30,"time":1677945057781,"pid":16072,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945058072,"pid":16072,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945058072,"pid":16072,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945058073,"pid":16072,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 21 - Reformar para usar GraphQL"}
+{"level":30,"time":1677945109436,"pid":8804,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945109713,"pid":8804,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945109713,"pid":8804,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945109714,"pid":8804,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 21 - Reformar para usar GraphQL"}
+{"level":30,"time":1677945132980,"pid":1860,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945133287,"pid":1860,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945133287,"pid":1860,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945133288,"pid":1860,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677945143558,"pid":7336,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945143846,"pid":7336,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945143846,"pid":7336,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945143847,"pid":7336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":40,"time":1677945158562,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158578,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158583,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158591,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158594,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158598,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158602,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158607,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158611,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158614,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158618,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158623,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158627,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158630,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158633,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158636,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158639,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158641,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158644,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945158647,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159689,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159694,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159698,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159703,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159706,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159709,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159712,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159715,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159719,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159722,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159726,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159728,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159731,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159735,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159737,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159739,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159742,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159745,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159748,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":40,"time":1677945159751,"pid":7336,"hostname":"Lautaro","msg":"Ruta inexistente"}
+{"level":30,"time":1677945262153,"pid":13956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945262573,"pid":13956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945262573,"pid":13956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945262573,"pid":13956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677945276418,"pid":12472,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677945276747,"pid":12472,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677945276747,"pid":12472,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677945276748,"pid":12472,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677947434963,"pid":6924,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677947435314,"pid":6924,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677947435314,"pid":6924,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677947435314,"pid":6924,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677948412241,"pid":5380,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677948412242,"pid":5380,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677948412242,"pid":5380,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677948437026,"pid":9104,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677948437026,"pid":9104,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677948437027,"pid":9104,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677948851711,"pid":12556,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677948851711,"pid":12556,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677948851711,"pid":12556,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677949075554,"pid":16040,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677949075554,"pid":16040,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677949075555,"pid":16040,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677949078125,"pid":12392,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677949078125,"pid":12392,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677949078126,"pid":12392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677949081317,"pid":14060,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677949081317,"pid":14060,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677949081317,"pid":14060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677949082964,"pid":5320,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677949082964,"pid":5320,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677949082965,"pid":5320,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677949090902,"pid":9280,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677949090903,"pid":9280,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677949090903,"pid":9280,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956227816,"pid":17684,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956227816,"pid":17684,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956227817,"pid":17684,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956258222,"pid":18212,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956258223,"pid":18212,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956258223,"pid":18212,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956489750,"pid":14808,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956489750,"pid":14808,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956489751,"pid":14808,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956497754,"pid":16036,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956497755,"pid":16036,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956497755,"pid":16036,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956578454,"pid":7132,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677956578825,"pid":7132,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956578825,"pid":7132,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956578826,"pid":7132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677956585900,"pid":13392,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677956586283,"pid":13392,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677956586283,"pid":13392,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677956586283,"pid":13392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957013686,"pid":12644,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957014083,"pid":12644,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957014083,"pid":12644,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957014083,"pid":12644,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957206239,"pid":8976,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957206595,"pid":8976,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957206595,"pid":8976,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957206595,"pid":8976,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957219080,"pid":11576,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957219426,"pid":11576,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957219427,"pid":11576,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957219427,"pid":11576,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957235511,"pid":10628,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957235847,"pid":10628,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957235847,"pid":10628,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957235847,"pid":10628,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957241395,"pid":12936,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957241745,"pid":12936,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957241745,"pid":12936,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957241746,"pid":12936,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957244305,"pid":8656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957244657,"pid":8656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957244657,"pid":8656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957244658,"pid":8656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957253027,"pid":12816,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957253435,"pid":12816,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957253435,"pid":12816,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957253435,"pid":12816,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957381009,"pid":14168,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957381399,"pid":14168,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957381399,"pid":14168,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957381399,"pid":14168,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957398113,"pid":9848,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957398464,"pid":9848,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957398464,"pid":9848,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957398465,"pid":9848,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957399606,"pid":6060,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957399961,"pid":6060,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957399961,"pid":6060,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957399962,"pid":6060,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957401948,"pid":18088,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957402282,"pid":18088,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957402282,"pid":18088,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957402282,"pid":18088,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957437462,"pid":8312,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957437827,"pid":8312,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957437827,"pid":8312,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957437827,"pid":8312,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957450594,"pid":18144,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957450954,"pid":18144,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957450954,"pid":18144,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957450954,"pid":18144,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957452349,"pid":11856,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957452695,"pid":11856,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957452695,"pid":11856,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957452695,"pid":11856,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957459896,"pid":15484,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957460236,"pid":15484,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957460236,"pid":15484,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957460236,"pid":15484,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957541158,"pid":17524,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957541505,"pid":17524,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957541505,"pid":17524,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957541505,"pid":17524,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1677957550393,"pid":7428,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677957550736,"pid":7428,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677957550736,"pid":7428,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677957550737,"pid":7428,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678142944776,"pid":5736,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678142945235,"pid":5736,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678142945235,"pid":5736,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678142945235,"pid":5736,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678142976969,"pid":17672,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678142977312,"pid":17672,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678142977312,"pid":17672,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678142977313,"pid":17672,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143291549,"pid":13104,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143291968,"pid":13104,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143291968,"pid":13104,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143291968,"pid":13104,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143366130,"pid":11008,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143366543,"pid":11008,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143366543,"pid":11008,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143366543,"pid":11008,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143798685,"pid":13968,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143799005,"pid":13968,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143799005,"pid":13968,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143799005,"pid":13968,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143805641,"pid":13984,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143805961,"pid":13984,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143805961,"pid":13984,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143805961,"pid":13984,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143884282,"pid":10668,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143884596,"pid":10668,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143884596,"pid":10668,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143884596,"pid":10668,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143885795,"pid":14268,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143886109,"pid":14268,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143886109,"pid":14268,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143886109,"pid":14268,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143891147,"pid":6904,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143891482,"pid":6904,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143891482,"pid":6904,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143891483,"pid":6904,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143909544,"pid":1056,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143909865,"pid":1056,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143909865,"pid":1056,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143909866,"pid":1056,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143914980,"pid":15728,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143915299,"pid":15728,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143915299,"pid":15728,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143915299,"pid":15728,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143952924,"pid":1704,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143953266,"pid":1704,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143953266,"pid":1704,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143953266,"pid":1704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143956144,"pid":13920,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143956464,"pid":13920,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143956464,"pid":13920,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143956464,"pid":13920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143970000,"pid":17348,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143970348,"pid":17348,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143970348,"pid":17348,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143970349,"pid":17348,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678143971464,"pid":15956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678143971813,"pid":15956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678143971813,"pid":15956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678143971813,"pid":15956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144103244,"pid":12896,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144103576,"pid":12896,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144103576,"pid":12896,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144103577,"pid":12896,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144109879,"pid":12868,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144110209,"pid":12868,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144110209,"pid":12868,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144110209,"pid":12868,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144115730,"pid":16460,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144116051,"pid":16460,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144116051,"pid":16460,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144116052,"pid":16460,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144120783,"pid":13068,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144121108,"pid":13068,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144121108,"pid":13068,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144121108,"pid":13068,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144122923,"pid":8064,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144123236,"pid":8064,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144123236,"pid":8064,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144123236,"pid":8064,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144125724,"pid":18000,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144126037,"pid":18000,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144126037,"pid":18000,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144126038,"pid":18000,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144128057,"pid":3100,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144128403,"pid":3100,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144128403,"pid":3100,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144128403,"pid":3100,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144134814,"pid":3100,"hostname":"Lautaro","msg":"error desde el getAll: TypeError: res.render is not a function"}
+{"level":30,"time":1678144146774,"pid":7244,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144147130,"pid":7244,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144147130,"pid":7244,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144147131,"pid":7244,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144170585,"pid":6224,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144170905,"pid":6224,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144170905,"pid":6224,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144170905,"pid":6224,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144221218,"pid":5468,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144221533,"pid":5468,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144221533,"pid":5468,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144221533,"pid":5468,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144227301,"pid":17288,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144227625,"pid":17288,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144227625,"pid":17288,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144227625,"pid":17288,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144330456,"pid":16240,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144330809,"pid":16240,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144330809,"pid":16240,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144330810,"pid":16240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144350477,"pid":15164,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144350797,"pid":15164,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144350797,"pid":15164,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144350797,"pid":15164,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144354060,"pid":7872,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144354379,"pid":7872,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144354379,"pid":7872,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144354380,"pid":7872,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144371663,"pid":2000,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144371982,"pid":2000,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144371982,"pid":2000,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144371983,"pid":2000,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144373130,"pid":8336,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144373476,"pid":8336,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144373476,"pid":8336,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144373476,"pid":8336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144384048,"pid":2304,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144384362,"pid":2304,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144384362,"pid":2304,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144384362,"pid":2304,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144408042,"pid":2304,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678144487204,"pid":9000,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144487534,"pid":9000,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144487534,"pid":9000,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144487534,"pid":9000,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144500713,"pid":15552,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144501042,"pid":15552,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144501042,"pid":15552,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144501043,"pid":15552,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144501993,"pid":1232,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144502350,"pid":1232,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144502350,"pid":1232,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144502350,"pid":1232,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144520993,"pid":12236,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144521314,"pid":12236,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144521314,"pid":12236,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144521314,"pid":12236,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144521942,"pid":12236,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678144534249,"pid":16824,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144534570,"pid":16824,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144534570,"pid":16824,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144534571,"pid":16824,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144534972,"pid":16824,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678144561987,"pid":5012,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144562303,"pid":5012,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144562303,"pid":5012,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144562304,"pid":5012,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144566244,"pid":5012,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678144614687,"pid":10876,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144615009,"pid":10876,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144615009,"pid":10876,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144615009,"pid":10876,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144663549,"pid":1516,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144663873,"pid":1516,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144663873,"pid":1516,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144663874,"pid":1516,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144677178,"pid":10348,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144677501,"pid":10348,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144677501,"pid":10348,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144677502,"pid":10348,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144680948,"pid":5292,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144681299,"pid":5292,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144681299,"pid":5292,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144681300,"pid":5292,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144682405,"pid":15564,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144682757,"pid":15564,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144682757,"pid":15564,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144682757,"pid":15564,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144727119,"pid":15156,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144727452,"pid":15156,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144727452,"pid":15156,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144727453,"pid":15156,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144733800,"pid":6632,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144734116,"pid":6632,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144734116,"pid":6632,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144734116,"pid":6632,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144735258,"pid":11984,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144735586,"pid":11984,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144735586,"pid":11984,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144735586,"pid":11984,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144737407,"pid":13848,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144737727,"pid":13848,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144737727,"pid":13848,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144737728,"pid":13848,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144738890,"pid":10636,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144739213,"pid":10636,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144739213,"pid":10636,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144739213,"pid":10636,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144765143,"pid":4640,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144765478,"pid":4640,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144765478,"pid":4640,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144765478,"pid":4640,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144771806,"pid":11344,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144772120,"pid":11344,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144772120,"pid":11344,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144772121,"pid":11344,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144809523,"pid":11344,"hostname":"Lautaro","err":{"type":"TypeError","message":"ctx.body is not a function","stack":"TypeError: ctx.body is not a function\n    at getById (file:///C:/Users/lauta_rq113sm/Desktop/Lautaro/Educaci%C3%B3n/Programaci%C3%B3n/CODERHOUSE/Backend32140/Practicas%20clases/DESAFIOS/desafio23%20-%20Reformar%20para%20usar%20otro%20framework/src/controllers/ProductsController/index.js:26:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"error from getById"}
+{"level":30,"time":1678144835855,"pid":10136,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144836172,"pid":10136,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144836172,"pid":10136,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144836172,"pid":10136,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144844891,"pid":13940,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144845220,"pid":13940,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144845220,"pid":13940,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144845220,"pid":13940,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144849163,"pid":7704,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144849492,"pid":7704,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144849492,"pid":7704,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144849492,"pid":7704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144852423,"pid":10912,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144852793,"pid":10912,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144852793,"pid":10912,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144852794,"pid":10912,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144854505,"pid":4668,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144854824,"pid":4668,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144854824,"pid":4668,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144854824,"pid":4668,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144856142,"pid":10260,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144856476,"pid":10260,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144856476,"pid":10260,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144856477,"pid":10260,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144862844,"pid":10260,"hostname":"Lautaro","err":{"type":"ReferenceError","message":"pr is not defined","stack":"ReferenceError: pr is not defined\n    at getById (file:///C:/Users/lauta_rq113sm/Desktop/Lautaro/Educaci%C3%B3n/Programaci%C3%B3n/CODERHOUSE/Backend32140/Practicas%20clases/DESAFIOS/desafio23%20-%20Reformar%20para%20usar%20otro%20framework/src/controllers/ProductsController/index.js:24:32)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"error from getById"}
+{"level":30,"time":1678144876678,"pid":16884,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144876995,"pid":16884,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144876995,"pid":16884,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144876996,"pid":16884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678144877706,"pid":16884,"hostname":"Lautaro","err":{"type":"TypeError","message":"ctx.body is not a function","stack":"TypeError: ctx.body is not a function\n    at getById (file:///C:/Users/lauta_rq113sm/Desktop/Lautaro/Educaci%C3%B3n/Programaci%C3%B3n/CODERHOUSE/Backend32140/Practicas%20clases/DESAFIOS/desafio23%20-%20Reformar%20para%20usar%20otro%20framework/src/controllers/ProductsController/index.js:28:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"error from getById"}
+{"level":30,"time":1678144910661,"pid":16484,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144910994,"pid":16484,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144910994,"pid":16484,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144910994,"pid":16484,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144915578,"pid":17356,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144915906,"pid":17356,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144915906,"pid":17356,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144915907,"pid":17356,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144917600,"pid":16880,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144917920,"pid":16880,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144917920,"pid":16880,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144917920,"pid":16880,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144929995,"pid":16940,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144930320,"pid":16940,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144930320,"pid":16940,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144930321,"pid":16940,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144935595,"pid":10476,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144935912,"pid":10476,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144935912,"pid":10476,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144935913,"pid":10476,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144953471,"pid":7828,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144953801,"pid":7828,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144953801,"pid":7828,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144953802,"pid":7828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678144955753,"pid":14188,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678144956073,"pid":14188,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678144956073,"pid":14188,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678144956073,"pid":14188,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145014757,"pid":18360,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145015069,"pid":18360,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145015069,"pid":18360,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145015070,"pid":18360,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145022366,"pid":2424,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145022708,"pid":2424,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145022708,"pid":2424,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145022708,"pid":2424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145026288,"pid":4676,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145026602,"pid":4676,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145026602,"pid":4676,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145026602,"pid":4676,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145028014,"pid":10000,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145028365,"pid":10000,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145028365,"pid":10000,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145028366,"pid":10000,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145030798,"pid":13724,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145031121,"pid":13724,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145031121,"pid":13724,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145031122,"pid":13724,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145055685,"pid":11100,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145056000,"pid":11100,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145056000,"pid":11100,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145056001,"pid":11100,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145058326,"pid":13744,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145058665,"pid":13744,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145058665,"pid":13744,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145058665,"pid":13744,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145060414,"pid":8336,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145060732,"pid":8336,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145060732,"pid":8336,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145060733,"pid":8336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145073595,"pid":12776,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145073918,"pid":12776,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145073918,"pid":12776,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145073918,"pid":12776,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145101733,"pid":13624,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145102081,"pid":13624,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145102081,"pid":13624,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145102081,"pid":13624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145108616,"pid":1924,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145108936,"pid":1924,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145108936,"pid":1924,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145108937,"pid":1924,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145111806,"pid":10272,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145112114,"pid":10272,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145112114,"pid":10272,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145112114,"pid":10272,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145114701,"pid":17404,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145115035,"pid":17404,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145115035,"pid":17404,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145115035,"pid":17404,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145116558,"pid":4412,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145116876,"pid":4412,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145116876,"pid":4412,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145116876,"pid":4412,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145164136,"pid":16324,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145164462,"pid":16324,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145164462,"pid":16324,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145164462,"pid":16324,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145177549,"pid":10980,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145177887,"pid":10980,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145177887,"pid":10980,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145177887,"pid":10980,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145179716,"pid":2588,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145180111,"pid":2588,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145180111,"pid":2588,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145180112,"pid":2588,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145181471,"pid":12128,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145181802,"pid":12128,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145181802,"pid":12128,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145181802,"pid":12128,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145188991,"pid":17132,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145189312,"pid":17132,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145189312,"pid":17132,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145189312,"pid":17132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145204955,"pid":9088,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145205272,"pid":9088,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145205272,"pid":9088,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145205273,"pid":9088,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145215872,"pid":9232,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145216222,"pid":9232,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145216222,"pid":9232,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145216223,"pid":9232,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145221424,"pid":7944,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145221763,"pid":7944,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145221763,"pid":7944,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145221764,"pid":7944,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145223180,"pid":9748,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145223527,"pid":9748,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145223527,"pid":9748,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145223527,"pid":9748,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145228891,"pid":9188,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145229206,"pid":9188,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145229206,"pid":9188,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145229207,"pid":9188,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145255613,"pid":4072,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145255928,"pid":4072,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145255928,"pid":4072,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145255928,"pid":4072,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145299735,"pid":4188,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145300050,"pid":4188,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145300050,"pid":4188,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145300050,"pid":4188,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145311037,"pid":16768,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145311348,"pid":16768,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145311348,"pid":16768,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145311348,"pid":16768,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145319676,"pid":10276,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145319994,"pid":10276,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145319994,"pid":10276,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145319994,"pid":10276,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145321185,"pid":1392,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145321499,"pid":1392,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145321499,"pid":1392,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145321499,"pid":1392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145330575,"pid":10332,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145330902,"pid":10332,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145330902,"pid":10332,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145330902,"pid":10332,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145333217,"pid":12236,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145333528,"pid":12236,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145333528,"pid":12236,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145333528,"pid":12236,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145336362,"pid":16656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145336673,"pid":16656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145336673,"pid":16656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145336674,"pid":16656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145338618,"pid":6696,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145338932,"pid":6696,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145338932,"pid":6696,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145338933,"pid":6696,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145341980,"pid":11332,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145342343,"pid":11332,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145342343,"pid":11332,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145342343,"pid":11332,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145381826,"pid":6448,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145382147,"pid":6448,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145382147,"pid":6448,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145382148,"pid":6448,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145383773,"pid":10520,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145384097,"pid":10520,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145384097,"pid":10520,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145384098,"pid":10520,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145400747,"pid":15916,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145401070,"pid":15916,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145401070,"pid":15916,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145401070,"pid":15916,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145429118,"pid":1732,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145429443,"pid":1732,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145429443,"pid":1732,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145429444,"pid":1732,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145431949,"pid":16900,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145432266,"pid":16900,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145432266,"pid":16900,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145432266,"pid":16900,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145440738,"pid":16236,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145441061,"pid":16236,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145441061,"pid":16236,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145441061,"pid":16236,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145447267,"pid":10048,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145447594,"pid":10048,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145447595,"pid":10048,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145447595,"pid":10048,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145458846,"pid":10152,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145459160,"pid":10152,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145459160,"pid":10152,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145459161,"pid":10152,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145463433,"pid":14588,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145463758,"pid":14588,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145463758,"pid":14588,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145463759,"pid":14588,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145473212,"pid":14684,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145473547,"pid":14684,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145473547,"pid":14684,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145473547,"pid":14684,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145476519,"pid":17792,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145476846,"pid":17792,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145476846,"pid":17792,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145476846,"pid":17792,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145508499,"pid":12844,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145508808,"pid":12844,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145508808,"pid":12844,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145508809,"pid":12844,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145550341,"pid":11064,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145550678,"pid":11064,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145550678,"pid":11064,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145550678,"pid":11064,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145561372,"pid":17432,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145561693,"pid":17432,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145561693,"pid":17432,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145561693,"pid":17432,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145575179,"pid":8296,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145575497,"pid":8296,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145575497,"pid":8296,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145575497,"pid":8296,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145584103,"pid":3948,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145584422,"pid":3948,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145584422,"pid":3948,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145584422,"pid":3948,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145589954,"pid":13212,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145590297,"pid":13212,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145590297,"pid":13212,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145590298,"pid":13212,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145606934,"pid":12080,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145607260,"pid":12080,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145607260,"pid":12080,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145607260,"pid":12080,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145615107,"pid":2408,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145615424,"pid":2408,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145615424,"pid":2408,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145615425,"pid":2408,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145621755,"pid":13660,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145622106,"pid":13660,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145622106,"pid":13660,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145622106,"pid":13660,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145626831,"pid":13604,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145627184,"pid":13604,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145627184,"pid":13604,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145627184,"pid":13604,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145631179,"pid":1220,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145631494,"pid":1220,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145631494,"pid":1220,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145631495,"pid":1220,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145638550,"pid":11268,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145638880,"pid":11268,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145638880,"pid":11268,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145638881,"pid":11268,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145642570,"pid":13956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145642896,"pid":13956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145642896,"pid":13956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145642897,"pid":13956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145646710,"pid":3872,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145647029,"pid":3872,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145647029,"pid":3872,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145647030,"pid":3872,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145657659,"pid":18360,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145657985,"pid":18360,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145657985,"pid":18360,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145657986,"pid":18360,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145737318,"pid":13104,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145737639,"pid":13104,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145737639,"pid":13104,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145737639,"pid":13104,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145738594,"pid":2924,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145738907,"pid":2924,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145738907,"pid":2924,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145738908,"pid":2924,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145744470,"pid":8312,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145744792,"pid":8312,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145744792,"pid":8312,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145744793,"pid":8312,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145747776,"pid":1056,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145748104,"pid":1056,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145748104,"pid":1056,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145748105,"pid":1056,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145807093,"pid":14840,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145807432,"pid":14840,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145807432,"pid":14840,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145807432,"pid":14840,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145809224,"pid":10624,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145809549,"pid":10624,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145809549,"pid":10624,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145809549,"pid":10624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145811076,"pid":12392,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145811393,"pid":12392,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145811393,"pid":12392,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145811394,"pid":12392,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145813583,"pid":14536,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145813907,"pid":14536,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145813907,"pid":14536,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145813907,"pid":14536,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145817091,"pid":17508,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145817420,"pid":17508,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145817420,"pid":17508,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145817420,"pid":17508,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145819342,"pid":2524,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145819697,"pid":2524,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145819697,"pid":2524,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145819697,"pid":2524,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145822048,"pid":17132,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145822360,"pid":17132,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145822360,"pid":17132,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145822361,"pid":17132,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145826743,"pid":3100,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145827112,"pid":3100,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145827112,"pid":3100,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145827113,"pid":3100,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145829751,"pid":9884,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145830072,"pid":9884,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145830072,"pid":9884,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145830072,"pid":9884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145836479,"pid":15912,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145836787,"pid":15912,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145836787,"pid":15912,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145836788,"pid":15912,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145839195,"pid":15968,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145839510,"pid":15968,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145839510,"pid":15968,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145839510,"pid":15968,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145842183,"pid":2072,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145842531,"pid":2072,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145842531,"pid":2072,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145842531,"pid":2072,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145874450,"pid":12184,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145874782,"pid":12184,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145874782,"pid":12184,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145874782,"pid":12184,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145877872,"pid":6024,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145878252,"pid":6024,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145878252,"pid":6024,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145878252,"pid":6024,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145915713,"pid":3116,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145916044,"pid":3116,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145916044,"pid":3116,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145916045,"pid":3116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145916925,"pid":8956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145917244,"pid":8956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145917244,"pid":8956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145917245,"pid":8956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145920284,"pid":17868,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145920600,"pid":17868,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145920600,"pid":17868,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145920600,"pid":17868,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678145934069,"pid":17868,"hostname":"Lautaro","msg":"error from sendWhatsapp"}
+{"level":50,"time":1678145934070,"pid":17868,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678145949717,"pid":15704,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145950045,"pid":15704,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145950045,"pid":15704,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145950045,"pid":15704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145989798,"pid":14040,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145990136,"pid":14040,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145990136,"pid":14040,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145990136,"pid":14040,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678145996209,"pid":9788,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678145996568,"pid":9788,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678145996568,"pid":9788,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678145996569,"pid":9788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146001059,"pid":17504,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146001414,"pid":17504,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146001414,"pid":17504,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146001415,"pid":17504,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146006913,"pid":1340,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146007224,"pid":1340,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146007224,"pid":1340,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146007224,"pid":1340,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146010009,"pid":17920,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146010329,"pid":17920,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146010329,"pid":17920,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146010330,"pid":17920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146012530,"pid":15656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146012841,"pid":15656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146012841,"pid":15656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146012842,"pid":15656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146103044,"pid":6924,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146103386,"pid":6924,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146103386,"pid":6924,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146103386,"pid":6924,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146113236,"pid":17296,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146113559,"pid":17296,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146113559,"pid":17296,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146113559,"pid":17296,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146122987,"pid":5916,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146123323,"pid":5916,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146123323,"pid":5916,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146123324,"pid":5916,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146151028,"pid":5652,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146151346,"pid":5652,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146151346,"pid":5652,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146151347,"pid":5652,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146153308,"pid":15064,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146153631,"pid":15064,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146153631,"pid":15064,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146153631,"pid":15064,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146162458,"pid":3704,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146162775,"pid":3704,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146162775,"pid":3704,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146162775,"pid":3704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146166771,"pid":8256,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146167158,"pid":8256,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146167158,"pid":8256,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146167159,"pid":8256,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146169713,"pid":3500,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146170030,"pid":3500,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146170030,"pid":3500,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146170030,"pid":3500,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146186056,"pid":14328,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146186390,"pid":14328,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146186390,"pid":14328,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146186391,"pid":14328,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146189632,"pid":14448,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146189960,"pid":14448,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146189960,"pid":14448,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146189961,"pid":14448,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146253927,"pid":5452,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146254254,"pid":5452,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146254254,"pid":5452,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146254254,"pid":5452,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146263097,"pid":14992,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146263416,"pid":14992,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146263417,"pid":14992,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146263417,"pid":14992,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146266375,"pid":17068,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146266699,"pid":17068,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146266699,"pid":17068,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146266700,"pid":17068,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146276004,"pid":3264,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146276349,"pid":3264,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146276349,"pid":3264,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146276349,"pid":3264,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146282252,"pid":10664,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146282579,"pid":10664,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146282579,"pid":10664,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146282580,"pid":10664,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146285341,"pid":15856,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146285657,"pid":15856,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146285657,"pid":15856,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146285658,"pid":15856,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146290909,"pid":5284,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146291225,"pid":5284,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146291225,"pid":5284,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146291226,"pid":5284,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146395545,"pid":6264,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146395937,"pid":6264,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146395937,"pid":6264,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146395938,"pid":6264,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146397983,"pid":17964,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146398310,"pid":17964,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146398310,"pid":17964,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146398310,"pid":17964,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146399294,"pid":10124,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146399615,"pid":10124,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146399615,"pid":10124,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146399616,"pid":10124,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146403292,"pid":17636,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146403608,"pid":17636,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146403608,"pid":17636,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146403609,"pid":17636,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146413857,"pid":7660,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146414176,"pid":7660,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146414176,"pid":7660,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146414177,"pid":7660,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146415627,"pid":3824,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146415949,"pid":3824,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146415949,"pid":3824,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146415949,"pid":3824,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146417858,"pid":10080,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146418174,"pid":10080,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146418174,"pid":10080,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146418174,"pid":10080,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146433461,"pid":8108,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146433776,"pid":8108,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146433776,"pid":8108,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146433777,"pid":8108,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146448060,"pid":9284,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146448379,"pid":9284,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146448379,"pid":9284,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146448380,"pid":9284,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146449650,"pid":908,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146449973,"pid":908,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146449973,"pid":908,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146449973,"pid":908,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146455762,"pid":9924,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146456086,"pid":9924,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146456086,"pid":9924,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146456087,"pid":9924,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146469388,"pid":12200,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146469704,"pid":12200,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146469704,"pid":12200,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146469705,"pid":12200,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678146647807,"pid":12200,"hostname":"Lautaro","msg":"error desde el deleteProductFromCart"}
+{"level":30,"time":1678146686204,"pid":15856,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146686523,"pid":15856,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146686523,"pid":15856,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146686523,"pid":15856,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146703664,"pid":9904,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146703979,"pid":9904,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146703979,"pid":9904,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146703980,"pid":9904,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146710441,"pid":14248,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146710763,"pid":14248,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146710763,"pid":14248,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146710763,"pid":14248,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146714081,"pid":17004,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146714430,"pid":17004,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146714430,"pid":17004,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146714431,"pid":17004,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678146716722,"pid":17004,"hostname":"Lautaro","msg":"error desde el deleteProductFromCart"}
+{"level":30,"time":1678146763543,"pid":12620,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146763865,"pid":12620,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146763865,"pid":12620,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146763865,"pid":12620,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678146767368,"pid":12620,"hostname":"Lautaro","msg":"error desde el deleteProductFromCart"}
+{"level":30,"time":1678146785940,"pid":16300,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146786260,"pid":16300,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146786260,"pid":16300,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146786261,"pid":16300,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146821492,"pid":3704,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146821844,"pid":3704,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146821844,"pid":3704,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146821844,"pid":3704,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146824166,"pid":14328,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146824480,"pid":14328,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146824480,"pid":14328,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146824481,"pid":14328,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146832061,"pid":8764,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146832376,"pid":8764,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146832376,"pid":8764,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146832376,"pid":8764,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146833393,"pid":2844,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146833704,"pid":2844,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146833704,"pid":2844,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146833704,"pid":2844,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146841616,"pid":532,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146841940,"pid":532,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146841940,"pid":532,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146841941,"pid":532,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146843326,"pid":15444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146843647,"pid":15444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146843647,"pid":15444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146843648,"pid":15444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146850722,"pid":4356,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146851063,"pid":4356,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146851063,"pid":4356,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146851063,"pid":4356,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146852422,"pid":16780,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146852742,"pid":16780,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146852742,"pid":16780,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146852742,"pid":16780,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146867125,"pid":14156,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146867453,"pid":14156,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146867453,"pid":14156,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146867453,"pid":14156,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146868441,"pid":17252,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146868785,"pid":17252,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146868785,"pid":17252,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146868785,"pid":17252,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146955790,"pid":14632,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146956116,"pid":14632,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146956116,"pid":14632,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146956117,"pid":14632,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146960028,"pid":13192,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146960356,"pid":13192,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146960356,"pid":13192,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146960356,"pid":13192,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146971223,"pid":18404,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146971541,"pid":18404,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146971541,"pid":18404,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146971541,"pid":18404,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146972926,"pid":8020,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146973247,"pid":8020,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146973247,"pid":8020,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146973247,"pid":8020,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146982178,"pid":13232,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146982496,"pid":13232,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146982496,"pid":13232,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146982496,"pid":13232,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146996123,"pid":3788,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146996442,"pid":3788,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146996442,"pid":3788,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146996442,"pid":3788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146997494,"pid":3124,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146997819,"pid":3124,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146997819,"pid":3124,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146997820,"pid":3124,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678146999652,"pid":3840,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678146999974,"pid":3840,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678146999974,"pid":3840,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678146999974,"pid":3840,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678147001403,"pid":15484,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678147001718,"pid":15484,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678147001718,"pid":15484,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678147001719,"pid":15484,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":30,"time":1678147011783,"pid":15688,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678147012106,"pid":15688,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678147012106,"pid":15688,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678147012107,"pid":15688,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678147040949,"pid":15688,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":50,"time":1678147054131,"pid":15688,"hostname":"Lautaro","msg":"error desde el cartById"}
+{"level":30,"time":1678147058971,"pid":13780,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678147059297,"pid":13780,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678147059297,"pid":13780,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678147059297,"pid":13780,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}
+{"level":50,"time":1678147093997,"pid":13780,"hostname":"Lautaro","msg":"error from sendWhatsapp"}
+{"level":50,"time":1678147138640,"pid":13780,"hostname":"Lautaro","msg":"error from sendWhatsapp"}
+{"level":30,"time":1678147168543,"pid":13688,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1678147168869,"pid":13688,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1678147168869,"pid":13688,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1678147168869,"pid":13688,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 22 - Reformar para usar otro framework"}

@@ -9,7 +9,7 @@ import { config } from '../../config/index.js'
 const saveCart = async (req, res) => {
     try {
         const startCart = { timestamp: DATE_UTILS.getTimestamp(), products: [] }
-        const cart = await CartDao.save(startCart)
+        const cart = await CartDao.saveCart(startCart)
         res.send({ success: true, cartId: cart.id })
     } catch (error) {
         console.log(error, `error from saveCart`);
@@ -24,15 +24,15 @@ const updatedCartById = async (req, res) => {
         const { cartId } = req.params
 
 
-        const cart = await CartDao.getById(cartId)
+        const cart = await CartDao.getCartById(cartId)
         if (!cart) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CART })
 
-        const product = await ProductDao.getById(productId)
+        const product = await ProductDao.getProductById(productId)
         if (!product) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
 
         cart.products.push(product)
 
-        const updatedCart = await CartDao.updateById(cartId, cart)
+        const updatedCart = await CartDao.updateCartById(cartId, cart)
 
         res.send({ success: true, cart: updatedCart })
     } catch (error) {
@@ -46,7 +46,7 @@ const deleteCart = async (req, res) => {
     try {
         const { cartId } = req.params
 
-        const cart = await CartDao.deleteById(cartId)
+        const cart = await CartDao.deleteCartById(cartId)
         if (!cart) return res.send({ success: false, message: DATE_UTILS.MESSAGES.NO_CART })
 
         res.send({ success: true, data: cart })
@@ -62,10 +62,10 @@ const deleteProductFromCart = async (req, res) => {
         const { cartId } = req.params
         const { id_prod } = req.params
 
-        const cart = await CartDao.getById(cartId)
+        const cart = await CartDao.getCartById(cartId)
         if (!cart) { res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CART }) }
         else {
-            const product = await ProductDao.getById(id_prod)
+            const product = await ProductDao.getProductById(id_prod)
             if (!product) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_PRODUCT })
 
             const foundElementIndex = cart.productos.findIndex(element => element.id == id_prod)
@@ -76,7 +76,7 @@ const deleteProductFromCart = async (req, res) => {
             res.send({ success: true, message: `Se elimino del carrito ${cartId} el producto con el ID ${id_prod}` })
         }
 
-        const updatedCart = await CartDao.updateById(cartId, cart)
+        const updatedCart = await CartDao.updateCartById(cartId, cart)
         res.send({ success: true, cart: updatedCart })
 
     } catch (error) {
@@ -90,7 +90,7 @@ const productsInCart = async (req, res) => {
     try {
         const { cartId } = req.params
 
-        const cart = await CartDao.getById(cartId)
+        const cart = await CartDao.getCartById(cartId)
         if (!cart) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CART })
 
         const productsInCart = await cart.products
@@ -109,7 +109,7 @@ const cartById = async (req, res) => {
     try {
         const { id } = req.params
 
-        const cart = await CartDao.getById(id)
+        const cart = await CartDao.getCartById(id)
 
         res.send({ success: true, cart })
 
@@ -128,12 +128,12 @@ const buyCart = async (req, res) => {
         // console.log('userEmail: ', userEmail);
         const { id } = req.params
 
-        const cart = await CartDao.getById(id)
+        const cart = await CartDao.getCartById(id)
         if (!cart) return res.send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CART })
 
         let subject = 'Nuevo pedido!'
         let mailTo = config.MAIL.USER 
-        //me manda mail con la coma VER ESO EL VIERNES
+        
         let listado = cart.products.map(({ title }) => (
             `
             <li>${title}</li>

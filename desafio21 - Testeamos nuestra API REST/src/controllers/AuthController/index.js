@@ -9,18 +9,18 @@ const signUp = async (req, res, cb) => {
 
         if (!name || !lastname || !email || !password || !adress || !age || !celPhone) return res.send({ success: false })
 
-        const existUser = await UserDao.getOne({ email })
+        const existUser = await UserDao.getOneUser({ email })
 
         if (existUser && existUser.password) {
             return res.redirect('/api/auth/signup-error')
         }
 
         if (existUser && !existUser.password) {
-            const updateUser = await UserDao.updateById(existUser._id, { ...existUser, password })
+            const updateUser = await UserDao.updateUserById(existUser._id, { ...existUser, password })
             return res.send({ success: true })
         }
-        const userCart = await CartDao.save()
-        const newUser = await UserDao.save({ name, lastname, email, password: BCRYPT_VALIDATION.hashPassword(password), adress, age, celPhone, cart: userCart.id })
+        const userCart = await CartDao.saveCart()
+        const newUser = await UserDao.saveUser({ name, lastname, email, password: BCRYPT_VALIDATION.hashPassword(password), adress, age, celPhone, cart: userCart.id })
 
         let subject = 'Nuevo usuario creado'
         let mailTo = 'lauta.tallarico@gmail.com'
@@ -52,7 +52,7 @@ const signUp = async (req, res, cb) => {
 const login = async (req, email, password, done) => {
     try {
         if (!email || !password) return done(null, false)
-        const user = await UserDao.getOne({ email: email })
+        const user = await UserDao.getOneUser({ email: email })
 
         if (!user) {
             logger.warn(`Password or user not valid user`);
@@ -87,7 +87,7 @@ const githubLogin = async (accessToken, refreshToken, profile, done) => {
 
         if (!githubEmail) return done(null, false)
 
-        const user = await UserDao.getOne({ email: githubEmail })
+        const user = await UserDao.getOneUser({ email: githubEmail })
 
         if (user) {
             const userResponse = {
@@ -106,7 +106,7 @@ const githubLogin = async (accessToken, refreshToken, profile, done) => {
 
         }
 
-        const createUser = await UserDao.save(newUser)
+        const createUser = await UserDao.saveUser(newUser)
 
         const userResponse = {
             id: createUser._id,

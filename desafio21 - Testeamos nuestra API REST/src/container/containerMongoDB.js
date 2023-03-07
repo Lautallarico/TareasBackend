@@ -37,6 +37,7 @@ class ContainerMongoDB {
         const response = await this.model.findOne(options).lean().exec()
         return response
     }
+
 }
 
 export { ContainerMongoDB };

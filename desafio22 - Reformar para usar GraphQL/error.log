@@ -5452,3 +5452,7 @@
 {"level":30,"time":1677176639926,"pid":14776,"hostname":"Lautaro","msg":"http://localhost:8080/"}
 {"level":30,"time":1677176639926,"pid":14776,"hostname":"Lautaro","msg":"No es un cluster"}
 {"level":30,"time":1677176639927,"pid":14776,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 21 - Reformar para usar GraphQL"}
+{"level":30,"time":1677947547052,"pid":1344,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1677947547399,"pid":1344,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1677947547399,"pid":1344,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1677947547400,"pid":1344,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 21 - Reformar para usar GraphQL"}
